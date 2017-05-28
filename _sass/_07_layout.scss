@@ -144,7 +144,8 @@ body.video cite { color: #fff; }
 
 @media #{$large-only} {
     #logo img {
-        margin-top: 80px;
+        margin-top: 0px;/*--xd logo edit 80to0-*/
+        margin-left:600px/*--xd logo add-*/
     }
     #masthead {
         height: 310px;

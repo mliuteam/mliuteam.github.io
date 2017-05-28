@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "Profile of Professor Ming Liu"
+subheadline: "Electronic Enginnering Schoole at XJTU"
+teaser: "Director of the laboratory for Integrated Multiferroic Materials and Devices"
 permalink: "/documentation/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "apple-touch-icon-precomposed.png"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -17,299 +17,72 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
+<img class="t60" src="{{ site.urlimg }}apple-touch-icon-precomposed.png" alt="">
+
+ <div class="medium-8 medium-pull-4 columns" markdown="1">
+
+## About
+
+### Education   {#formats}
+
+<p><hr>Ph.D.  Eelectrical Engineering (2010) Northeastern University </p>
+<p>M.S.  Chemical Physics (2004) Dalian Inst. of Chem. Phys. CAS.</p>
+<p>B.S. Mathematical Physics (1999) Inner Mongoliar University</p>
+
+
+### Working
+<p><hr>Professor（2013-）Xi'an Jiaotong University</p> 
+<p>Research Scientist (2012-2013) AFRL</p>
+<p>Argonne Scholar (2010-2012) Center for Nanoscale Materials Argonne National Laboratory</p>
+
+
+### Honors
+<hr>
+<ol>
+<li>‘Tengfei’ Professor at Xi’an Jiaotong University  （2014）</li>
+<li>A Recipient of China Young1000-talent Program   （2012）</li>
+<li>Argonne Director’s Postdoctoral Fellowship   （2010）</li>
+<li>One of ten most outstanding papers in the past 10 years published in Adv. Funct. Mater. （2010）</li>
+<li>Northeastern Outstanding Student Research Award (2009)</li>
+<li>Materials Research Society (MRS) Spring Meeting Travelling Award (2009）</li>
+<li>Northeastern GPSA Conference Travelling Award （2008）</li>
+<li>Research Scholarship, DICP</li>
+<li>Undergraduate Scholarship, IMU </li>
+</ol>
+
+## Selected Publications
+<hr>
+<ol>
+<li><h5>B. Peng, Z. Zhou, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z-D Jiang, W. Ren,, Z-G Ye,N. X. Sun, and M. Liu*, ACS Nano, 10.1021/acsnano.7b01547 (2017)</h5></li>
+<li><h5>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, M. Liu*, Advanced Materials DOI: 10.1002/adma.201606478 <mark>(2017 elected as the cover article)</mark></h5></li>
+<li><h5>M. Zhu, Z. Zhou, W. Ren, B. Peng, S. Zhao, Y. Zhang, G. Niu, Z-G Ye, Y. Liu, M. Liu*, Advanced Functional Materials DOI: 10.1002/adfm.201605598 <mark>(2017 elected as the cover article)</mark></h5></li>
+<li><h5>M. Liu*, T. Nan, J.-M. Hu, S. Zhao, Z. Zhou, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, NPG Asia Materials, 8, e316 (2016)</h5></li>
+<li><h5>M. Liu*, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, Advanced Materials, 25 (10), 1435 (2013)</h5> </li>
+<li><h5>M. Liu*, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, Advanced Materials, 25 (35), 4886 (2013)</h5></li>
+<li><h5>M. Liu*, J. lou, S. D. Li, N. X. Sun*, Advanced Functional Materials, 21, 2593 (2011)</h5></li>
+<li><h5>M. Liu, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V.G. Harris, N. X. Sun*, Advanced Functional Materials 19, 1826 (2009) <mark>(Advanced Functional Materials Ten years 10 excellent paper award)</mark></h5></li>
+<li><h5>J. Lou, M. Liu, D. Reed, Y. Ren, N. X. Sun, Advanced Materials, 21, 4711 (2009)</h5></li>
+<li><h5>X. Yang, Z. Zhou, T. Nan, Y. Gao, G. M. Yang, M. Liu*, N. X. Sun, Journal of Materials Chemistry C, 4，234-243 <mark>( 2016, invited review)</mark></h5></li>
+</ol>
+
+
+
+## Contact 
+<hr>
+<dl>
+<dt><h3>Ming Liu</h3></dt>
+<dd>
+<p>School of Electronic and Information Engineering </p>
+<p>Xi'an Jiaotong University </p>
+<p>28 W. Xianning Rd.</p>
+<p>Xi'an, Shannxi 710049, China </p>
+<p>Tel: (+86)-29-82669012</p>
+<p>Email: mingliu@xjtu.edu.cn </p>
+<p>http://gr.xjtu.edu.cn/web/mingliu </p>
+<p>http://www.researcherid.com/rid/B-4143-2009</p>
+</dd>
+</dl>
 
-
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
-
-## Different Page/Posts Formats   {#formats}
-
-*Feeling Responsive* supports you with different templates for your content. These are the actual page/post formats:
-
-### Page/Post
-The [page/post format]({{ site.url }}{{ site.baseurl }}/design/page/) has no sidebar by default, its content is centered and beneath the content the visitor gets some metadata like categories, tags, date and author if provided via data in front matter of the post.
-
-use in front matter via: `layout: page`
-
-### Page/Post with a left or right sidebar
-If you want to show the sidebar, just enter `sidebar: left` or `sidebar: right` in front matter, and *whoops, there it is*! To customize the content of the sidebar, open `_includes/sidebar`.
-
-
-### Page/Post with or without metadata
-If you want to show metadata like categories, tags and date at the end of the page, just enter `show_meta: true`. It's on by default. You can change it via `_config.yml`. To turn of metadata just enter – *yes, you guessed right* – `show_meta: false`.
-
-
-
-### Page Full Width
-If you want full control of styling a page, then use the [page fullwidth template]({{ site.url }}{{ site.baseurl }}/design/page-fullwidth/). To set up a grid, just use the [foundation grid system](http://foundation.zurb.com/docs/components/grid.html).
-
-use in front matter via: `layout: page-fullwidth`
-
-
-### Frontpage
-This template is special. It allows you to define three *widgets* which are displayed with a headline, image, description and a link to the content. It's used for the [homepage]({{ site.url }}{{ site.baseurl }}) of this website.
-
-use in front matter via: `layout: frontpage`
-
-
-### Video
-If you're a video producer or cineast, you'll like the [video template]({{ site.url }}{{ site.baseurl }}/design/video/). It darkens the layout to black and lets the video stand out full-width.
-
-use in front matter via: `layout: video`
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-
-
-## Style your content with   {#styling}
-
-Feeling Responsive offers lots of possibilities to style your articles. You can style your content in different ways. There are elements like subheadlines, feature images, header images, homepage images, meta data like categories and tags and many more.
-
-
-### subheadlines
-
-If you need a subheadline for an article, just define a subheadline in front matter like this:
-
-`subheadline:  "Subheadline"`
-
-### Quotes
-
-Quotes mix it up a little bit, if you write long articles. So use quotes:
-
-> Age is an issue of mind over matter. If you don't mind, it doesn't matter.
-<cite>Mark Twain</cite>
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Comments
-
-You can use comments with *Feeling Responsive* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
-
-By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`. 
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-
-
-## Responsive Videos
-
-With foundation responsive videos are easy. [More ›](http://foundation.zurb.com/docs/components/flex_video.html)
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/WoHxoz_0ykI" frameborder="0" allowfullscreen></iframe>
-</div>
-
-### Code to use for flexible videos
-
-{% highlight html %}
-<div class="flex-video">
-  <iframe with video />
-</div>
-{% endhighlight %}
-
-
-<img class="t60" src="{{ site.urlimg }}header_homepage_13.jpg" alt="">
-
-## Images: Title, Thumbnails, Homepage   {#images}
-
-There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/). 
-
-
-### Title Images
-
-~~~
-image:
-    title: image.jpg
-~~~
-
-
-### Thumbnails
-
-Thumbnails are used on archive pages like the [blog index][2]. They have a size of 150x150 pixels. Define them in front matter like this:
-
-~~~
-image:
-    thumb: thumbnail_image.jpg
-~~~
-
-
-### Homepage Image
-
-If you want to feature an article on the homepage with a huge image, then use the homepage image with a width of 970 pixels. If no homepage image is defined *Feeling Responsive* writes instead *New Blog Articles* over the blog entries. Define the homepage image like this:
-
-~~~
-image:
-    homepage: header_homepage_13.jpg
-~~~
-
-
-
-### Captions with URL
-
-Sometimes you want to give credit to the creator of your images, maybe with a link. Especially when you use Creative Commons-images like I do for this website. Just add the following front matter and *Feeling Responsive* does the rest:
-
-~~~
-image:
-    title: header_image.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
-~~~
-
-### Define all images for an article
-
-~~~
-image:
-    title: title_image.jpg
-    thumb: thumbnail_image.jpg
-    homepage: header_homepage_13.jpg
-    caption: Image by Phlow
-    caption_url: "http://phlow.de/"
-~~~
-
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Create a Table of Contents
-{: .t60}
-
-With the Kramdown parser for Markdown you can render a table of contents for your documents. Just insert the following HTML in your post before the actual content. More information on [»Automatic ›Table of Contents‹ Generation«][1].
-
-### Bare Bones Version
-{% highlight html %}
-### Table of Contents
-*  Auto generated table of contents
-{:toc}
-{% endhighlight %}
-
-### Foundation panel version
-
-{% highlight html %}
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-{% endhighlight %}
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-## Breadcrumbs
-
-To turn on breadcrumbs, just use...
-
-{% highlight html %}
-breadcrumb: true
-{% endhighlight %}
-
-
-## Includes
-{: .t60}
-
-Includes can be very helpful to spice up your content. You can use includes in your Markdown-files with ease: Just call them with some Liquid code.
-
-### list-posts.html
-
-The `list-posts.html`-include is a loop to list posts. It's a helper to add some additional content fast and easy. You can use it in individual posts for example. Which parameters you use, depends on you.
-
-Possible parameter for the loop:
-
-- entries › define the number of entries to show
-- offset › define the offset (number of entries to skip before displaying the first one)
-- category › define **only one** category to display according entries
-
-The loop looks like this when you use all parameters. Single parameters are possible of course.
-
-~~~
-{% raw %}{% include list-posts entries='3' offset='1' category='design' %}{% endraw %}
-~~~
-
-### next-previous-post-in-category.html
-
-This include creates a next/previous link to a post of the same category using the first categories-variable in front matter.
-
-~~~
-{% raw %} {% include next-previous-post-in-category %}{% endraw %}
-~~~
-
-
-### improve_content
-
-If your content is on Jekyll you can use this include to automatically generate a »Edit on GitHub Link« to give people a possibility to improve your content. Got the idea from [Ben Balters Blog](http://ben.balter.com/).
-
-~~~
-{% raw %}{% include _improve_content.html %}{% endraw %}
-~~~
-
-
-### list-collection
-
-This include lets you loop through a collection to list all entries in that collection. If you set »published: false« in front matter of a collection page the page gots filtered out via unless. The following example loops through a collection called *wordpress*.
-
-~~~
-{% raw %}{% include list-collection collection='wordpress' %}{% endraw %}
-~~~
-
-
-### alert – Embed an alert in your content
-
-This include lets you easily display an alert. To use the include no `.html` ending is necessary. You can use five different kinds of alerts: `warning`, `info`, `success`, `alert` and `text`. 
-
-~~~
-{% raw %}{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}{% endraw %}
-~~~
-
-{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}
-
-You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
-
-~~~
-{% raw %}{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
-~~~
-
-{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
-
-<small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
-
-## Javascript/Foundation modules
-
-*Feeling Responsive* uses the foundation framework and some of its javascript components. I reduced the modules, to decrease page load and make the theme faster.
-
-I only added one other javascript-module: [`backstretch`][3] by Scott Robbin. These modules are currently used by the theme and included in `javascript.min.js`. There is also a non-minified version, if you want to take a closer look: `javascript.js`.
-
-~~~
-/foundation/bower_components/foundation/js/vendor/jquery.js'
-/foundation/bower_components/foundation/js/vendor/fastclick.js'
-/foundation/bower_components/foundation/js/foundation.accordion.js'
-/foundation/bower_components/foundation/js/foundation.clearing.js'
-/foundation/bower_components/foundation/js/foundation.dropdown.js'
-/foundation/bower_components/foundation/js/foundation.equalizer.js'
-/foundation/bower_components/foundation/js/foundation.magellan.js'
-/foundation/bower_components/foundation/js/foundation.topbar.js'
-/foundation/js/jquery.backstretch.js'
-~~~
-
-{% include _improve_content.html %}
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
