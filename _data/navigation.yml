@@ -21,10 +21,10 @@
     url: "/blog/"
 
 - title: "Articles"
-  url: "/blog/"
+  url: "/articlelist/"
   side: left
 
-- title: "Events"
+- title: "News"
   url: "/blog/"
   side: left
 

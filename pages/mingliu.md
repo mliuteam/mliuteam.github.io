@@ -3,9 +3,9 @@ layout: page-fullwidth
 title: "Profile of Professor Ming Liu"
 subheadline: "Electronic Enginnering Schoole at XJTU"
 teaser: "Director of the laboratory for Integrated Multiferroic Materials and Devices"
-permalink: "/documentation/"
+permalink: "/mingliu/"
 header:
-   image_fullwidth: "apple-touch-icon-precomposed.png"
+   image_fullwidth: "group.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -17,10 +17,10 @@ header:
 </div>
 </div><!-- /.medium-4.columns -->
 
-<img class="t60" src="{{ site.urlimg }}apple-touch-icon-precomposed.png" alt="">
 
- <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+<img src="{{ site.urlimg }}liupho.jpg" alt="">
 ## About
 
 ### Education   {#formats}
@@ -35,6 +35,7 @@ header:
 <p>Research Scientist (2012-2013) AFRL</p>
 <p>Argonne Scholar (2010-2012) Center for Nanoscale Materials Argonne National Laboratory</p>
 
+### Positions
 
 ### Honors
 <hr>
