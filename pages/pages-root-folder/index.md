@@ -13,17 +13,15 @@ widget1:
   image: mliu.jpg
   text: ' Dr. Ming Liu is a "Tengfei" professor at School of Electrical and Information Engineering, and director of the laboratory for Integrated Multiferroic Materials and Devices. '
 widget2:
-  title: "Prof. Zhongqiang Hu"
-  url: '/zhongqianghu/'
-  text: 'Dr. Zhongqiang Hu is a professor of Electrical Engineering
-Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research'
-  image: hzqhead.jpg
+  title: "Research Articles"
+  url: '/articlelist/'
+  text: 'The articles of Ph.D students Mingming Zhu and graduate student was elected as the cover articles on the Advanced Functional Materials and Advanced Materials. '
+  image: amcover2.png
 widget3:
   title: "Opportunities"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/opening/'
   image: teaching.jpg
-  text: '<em>Available postdoc positions</em> 
-  <p>We are currently seeking postdoctoral researchers in the fields of magnetics, multiferroics, and spintronics. </p>'
+  text: 'Available positions: we are currently seeking postdoctoral researchers,Ph.D, graduate and undergraduate students in the fields of magnetics, multiferroics, and spintronics. '
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -34,13 +32,13 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-
+permalink: /index.html
 
 callforaction:
-  #url: /info
-  text: About the Integrated Ferroic Materials and Devices Research Group ›
-  style: main color
-permalink: /index.html
+  url: '/about/'
+  text: <h3 style="color:#FFF;">About</h3> <p>Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research...</p>more ›
+  style: secondary
+
 
 #
 # This is a nasty hack to make the navigation highlight
@@ -49,9 +47,6 @@ permalink: /index.html
 
 homepage: true
 ---
-<div class="row text-center" style="background: #fdb515;">
-<h2>About laboratory</h2>
-</div>
 
 <!--<div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

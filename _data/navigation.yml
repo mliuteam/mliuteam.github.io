@@ -3,33 +3,36 @@
   side: left
 
 - title: About
-  url: "/getting-started/"
+  url: "/about/"
   side: left
   dropdown:
-  - title: "research"
-    url: "/design/gallery/"
-  - title: "laboratory"
-    url: "/design/gallery/"
+  - title: "Laboratory"
+    url: "/laboratory/"
 
 - title: "Members"
-  url: "/design/"
   side: left
   dropdown:
   - title: "Faculties"
-    url: "/blog/"
+    url: "/faculties/"
   - title: "Students"
-    url: "/blog/"
+    url: "/students/"
 
 - title: "Articles"
   url: "/articlelist/"
   side: left
 
 - title: "News"
-  url: "/blog/"
   side: left
+  dropdown:
+  - title: "Press"
+    url: "/press/"
+  - title: "Awards"
+    url: "/awards/"
+  - title: "Lab News"
+    url: "/labnews/"
 
 - title: "Opening"
-  url: "/blog/"
+  url: "/opening/"
   side: left
   # - title: "Typography"
   #   url: "/design/typography/typography/"

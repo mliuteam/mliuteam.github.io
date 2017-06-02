@@ -1,12 +1,25 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact Us"
+#subheadline: "Wufoo-powered contact forms"
+teaser: "Get in touch with us"
+header:
+   image_fullwidth: "logowide.png"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+<h3>Adress:</h3>
+<p>Key Laboratory of the Ministry of Education &amp; International Center for Dielectric Research</p>
+<p>School of Electronic and Information Engineering </p>
+<p>Xi'an Jiaotong University </p>
+<p>28 W. Xianning Rd.</p>
+<p>Xi'an, Shannxi 710049, China </p>
+<h3>Tel: </h3>
+<p>(+86)-29-82669012</p>
+<h3>Email:</h3>
+<p> mingliu@xjtu.edu.cn </p>
+<h3>More Info:</h3>
+<p><a href="http://gr.xjtu.edu.cn/web/mingliu">http://gr.xjtu.edu.cn/web/mingliu</a> </p>
+<p><a href="http://www.researcherid.com/rid/B-4143-2009">http://www.researcherid.com/rid/B-4143-2009</a></p>
 
- [1]: http://www.wufoo.com/

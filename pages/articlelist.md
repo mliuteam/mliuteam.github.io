@@ -3,9 +3,9 @@ layout: page
 title: "Research Highlights"
 meta_title: "A full list of articles"
 subheadline: "Find What You Need"
-teaser: "History and changelog of Feeling Responsive Theme"
+teaser: ""
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth: "logowide.png"
 permalink: "/articlelist/"
 ---
 <!--<div class="row">
@@ -24,8 +24,13 @@ permalink: "/articlelist/"
 <hr>
 <ol>
 <li><h5>B. Peng, Z. Zhou, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z-D Jiang, W. Ren, Z-G Ye,N. X. Sun, and M. Liu*, ACS Nano, 10.1021/acsnano.7b01547 (2017)</h5></li>
-<li><h5>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, M. Liu*, Advanced Materials DOI: 10.1002/adma.201606478 <mark>(2017 elected as the cover article)</mark></h5></li>
-<li><h5>M. Zhu, Z. Zhou, W. Ren, B. Peng, S. Zhao, Y. Zhang, G. Niu, Z-G Ye, Y. Liu, M. Liu*, Advanced Functional Materials DOI: 10.1002/adfm.201605598 <mark>(2017 elected as the cover article)</mark></h5></li>
+<li><h5>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, M. Liu*, Advanced Materials DOI: 10.1002/adma.201606478 <mark>(2017 elected as the cover article)</mark></h5>
+<a style="color:#ad0909" href="/press/Quantitative-Determination-on-Ionic-Liquid-Gating-Control-of-Interfacial-Magnetism/" ><strong>more&nbsp;></strong>></a>
+</li>
+
+<li><h5>M. Zhu, Z. Zhou, W. Ren, B. Peng, S. Zhao, Y. Zhang, G. Niu, Z-G Ye, Y. Liu, M. Liu*, Advanced Functional Materials DOI: 10.1002/adfm.201605598 <mark>(2017 elected as the cover article)</mark></h5>
+<a style="color:#ad0909" href="/press/Modulation-of-spin-dynamics-via-voltage-control-of-spin-lattice-coupling-in-multiferroics/" ><strong>more&nbsp;></strong>></a>
+</li>
 <li><h5>M. Liu*, T. Nan, J.-M. Hu, S. Zhao, Z. Zhou, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, NPG Asia Materials, 8, e316 (2016)</h5></li>
 <li><h5>M. Liu*, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, Advanced Materials, 25 (10), 1435 (2013)</h5> </li>
 <li><h5>M. Liu*, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, Advanced Materials, 25 (35), 4886 (2013)</h5></li>

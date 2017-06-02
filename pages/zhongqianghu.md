@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-title: "Profile of Professor Zhongqiang Hu"
+title: "Bio Sketch of Professor Zhongqiang Hu"
 subheadline: "Electronic Enginnering Schoole at XJTU"
 teaser: "Professor of Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research"
 permalink: "/zhongqianghu/"
-header:
-   image_fullwidth: "group.jpg"
+header: no
+  # image_fullwidth: "group.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
