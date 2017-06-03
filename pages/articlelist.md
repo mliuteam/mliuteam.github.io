@@ -10,12 +10,12 @@ permalink: "/articlelist/"
 ---
 <!--<div class="row t30" >-->
 <!--<div class="medium-4 medium-push-8 columns" markdown="1" style="position: absolute; right: -50px; top: 1%;" >-->
-<!--<div class="panel radius" markdown="1" style="position: absolute; right: -50px; top: 1%;">
+<div class="panel radius" markdown="1" style="position: absolute; right: -200px; top: 1%;">
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
-</div>-->
+</div>
 <!--</div>  /.medium-4.columns -->
 <!--</div>-->
 

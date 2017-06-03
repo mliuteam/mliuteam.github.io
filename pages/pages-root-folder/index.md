@@ -36,7 +36,7 @@ permalink: /index.html
 
 callforaction:
   url: '/about/'
-  text: <h3 style="color:#FFF;">About</h3> <p>Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research...</p>more ›
+  text: <p><h3 style="color:#FFF;">About</h3> Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education &amp; International Center for Dielectric Research...</p>more>
   style: secondary
 
 
