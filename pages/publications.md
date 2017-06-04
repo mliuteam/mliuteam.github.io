@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Research Highlights"
 meta_title: "A full list of articles"
 #subheadline: "Find What You Need"
@@ -22,29 +22,29 @@ permalink: "/publications/"
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;
     ">
-<li>B. Peng, <strong>Z. Zhou</strong>, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z-D Jiang, W. Ren, Z-G Ye,N. X. Sun, and <strong>M. Liu*</strong>, ACS Nano, 10.1021/acsnano.7b01547 (2017)</li>
+<li>B. Peng, <strong>Z. Zhou</strong>, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z-D Jiang, W. Ren, Z-G Ye,N. X. Sun, and <strong>M. Liu*</strong>, ACS Nano, 10.1021/acsnano.7b01547 (2017)<a style="color:#ad0909"  href="/press/Deterministic-Switching-of-Perpendicular-Magnetic-Anisotropy-by-Voltage-Control-of-Spin-Reorientation-Transition-in-Multiferroic-Heterostructures//" ><strong>more&nbsp;></strong></a></li>
 <li>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, Advanced Materials DOI: 10.1002/adma.201606478 <mark>(2017 elected as the cover article)</mark>
-<a style="color:#ad0909" href="/press/Quantitative-Determination-on-Ionic-Liquid-Gating-Control-of-Interfacial-Magnetism/" ><strong>more&nbsp;></strong>></a>
+<a style="color:#ad0909" href="/press/Quantitative-Determination-on-Ionic-Liquid-Gating-Control-of-Interfacial-Magnetism/" ><strong>more&nbsp;></strong></a>
 </li>
 
 <li>M. Zhu, <strong>Z. Zhou</strong>, W. Ren, B. Peng, S. Zhao, Y. Zhang, G. Niu, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, Advanced Functional Materials DOI: 10.1002/adfm.201605598 <mark>(2017 elected as the cover article)</mark>
-<a style="color:#ad0909" href="/press/Modulation-of-spin-dynamics-via-voltage-control-of-spin-lattice-coupling-in-multiferroics/" ><strong>more&nbsp;></strong>></a>
+<a style="color:#ad0909" href="/press/Modulation-of-spin-dynamics-via-voltage-control-of-spin-lattice-coupling-in-multiferroics/" ><strong>more&nbsp;></strong></a>
 </li>
-<li><strong>M. Liu*</strong>, T. Nan, J.-M. Hu, S. Zhao, <strong>Z. Zhou</strong>, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, NPG Asia Materials, 8, e316 (2016)</li>
-<li><strong>M. Liu*</strong>, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, Advanced Materials, 25 (10), 1435 (2013) </li>
-<li><strong>M. Liu*</strong>, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, Advanced Materials, 25 (35), 4886 (2013)</li>
-<li><strong>M. Liu*</strong>, J. lou, S. D. Li, N. X. Sun*, Advanced Functional Materials, 21, 2593 (2011)</li>
-<li><strong>M. Liu</strong>, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V.G. Harris, N. X. Sun*, Advanced Functional Materials 19, 1826 (2009) <mark>(Advanced Functional Materials Ten years 10 excellent paper award)</mark></li>
-<li>J. Lou, <strong>M. Liu</strong>, D. Reed, Y. Ren, N. X. Sun, Advanced Materials, 21, 4711 (2009)</li>
-<li>X. Yang, <strong>Z. Zhou</strong>, T. Nan, Y. Gao, G. M. Yang, <strong>M. Liu*</strong>, N. X. Sun, Journal of Materials Chemistry C, 4，234-243 <mark>( 2016, invited review)</mark></li>
+<li><strong>M. Liu*</strong>, T. Nan, J.-M. Hu, S. Zhao, <strong>Z. Zhou</strong>, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, NPG Asia Materials, 8, e316 (2016)<a style="color:#ad0909" href="http://www.nature.com/am/journal/v8/n9/full/am2016139a.html"><strong>more&nbsp;></strong></a></li>
+<li><strong>M. Liu*</strong>, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, Advanced Materials, 25 (10), 1435 (2013)<a style="color:#ad0909" href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201203792/full"><strong>more&nbsp;></strong></a> </li>
+<li><strong>M. Liu*</strong>, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, Advanced Materials, 25 (35), 4886 (2013)<a style="color:#ad0909" href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201301989/full"><strong>more&nbsp;></strong></a></li>
+<li><strong>M. Liu*</strong>, J. lou, S. D. Li, N. X. Sun*, Advanced Functional Materials, 21, 2593 (2011)<a style="color:#ad0909" href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201002485/full"><strong>more&nbsp;></strong></a></li>
+<li><strong>M. Liu</strong>, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V.G. Harris, N. X. Sun*, Advanced Functional Materials 19, 1826 (2009) <mark>(Advanced Functional Materials Ten years 10 excellent paper award)</mark><a style="color:#ad0909" href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.200801907/full"><strong>more&nbsp;></strong></a></li>
+<li>J. Lou, <strong>M. Liu</strong>, D. Reed, Y. Ren, N. X. Sun, Advanced Materials, 21, 4711 (2009)<a style="color:#ad0909" href="http://onlinelibrary.wiley.com/doi/10.1002/adma.200901131/full"><strong>more&nbsp;></strong></a></li>
+<li>X. Yang, <strong>Z. Zhou</strong>, T. Nan, Y. Gao, G. M. Yang, <strong>M. Liu*</strong>, N. X. Sun, Journal of Materials Chemistry C, 4，234-243 <mark>( 2016, invited review)</mark><a style="color:#ad0909" href="http://pubs.rsc.org/en/content/articlelanding/2016/tc/c5tc03008k#!divAbstract"><strong>more&nbsp;></strong></a></li>
 
 
 <h3>2017</h3>
 <hr>
 
-<li>B. Peng, <strong>Z. Zhou</strong>, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z.-D. Jiang, W. Ren, Z.-G. Ye, N. X. Sun, <strong>M. Liu*</strong>, “Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Multiferroic Heterostructures”, ACS Nano, 11 , 4337-4345 (2017)</li>
-<li>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, “Quantitative Determination on Ionic Liquid Gating Control of Interfacial Magnetism” Advanced Materials, 29, 1606478 (2017) <mark>(Inside cover)</mark></li>
-<li>M. Zhu, <strong>Z. Zhou</strong>, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, “Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics”, Advanced Functional Materials 27, 1605598 (2017) <mark>(Inside cover)</mark></li>
+<li>B. Peng, <strong>Z. Zhou</strong>, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z.-D. Jiang, W. Ren, Z.-G. Ye, N. X. Sun, <strong>M. Liu*</strong>, <a href="http://pubs.acs.org/doi/abs/10.1021/acsnano.7b01547">“Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Multiferroic Heterostructures”</a>, ACS Nano, 11 , 4337-4345 (2017)</li>
+<li>S. Zhao, Z Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201606478/full">“Quantitative Determination on Ionic Liquid Gating Control of Interfacial Magnetism”</a>, Advanced Materials, 29, 1606478 (2017) <mark>(Inside cover)</mark></li>
+<li>M. Zhu, <strong>Z. Zhou</strong>, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren, Z-G Ye, Y. Liu, <strong>M. Liu*</strong>, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201605598/full">“Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics”</a>, Advanced Functional Materials 27, 1605598 (2017) <mark>(Inside cover)</mark></li>
 <li>Q. Yang, <strong>Z. Zhou</strong>, N. X. Sun, <strong>M. Liu*</strong>, “Perspectives of voltage control for magnetic exchange bias in multiferroic heterostructures” Physics Letters A, 381, 1213-1222 (2017) <mark>(Prospective article)</mark></li>
 <li>L. Zhang, <strong>M. Liu*</strong>, W. Ren, <strong>Z. Zhou</strong>, G. Dong, Y. Zhang, B. Peng, X. Hao, C. Wang, Z.-D. Jiang, W. Jing, Z.-G. Ye, “ALD preparation of high-k HfO2 thin films with enhanced energy density and efficient electrostatic energy storage”, RSC Advances, 7, 8388-8393 (2017)</li>
 <li>Y. Zhang, <strong>M. Liu*</strong>, L. Zhang, <strong>Z. Zhou</strong>, B. Peng, C. Wang, Z-D Jiang, W. Ren, Z.-G. Ye, “Multiferroic Heterostructures of Fe3O4/PMN-PT prepared by Atomic Layer Deposition for Enhanced Interfacial Magnetoelectric Couplings” Applied Physics Letters, 110, 082902 (2017)</li>
@@ -53,12 +53,12 @@ permalink: "/publications/"
 
 <h3>2016</h3>
 <hr>
-<li>	<strong>M. Liu*</strong>, T. Nan, J.-M. Hu, S. Zhao, <strong>Z. Zhou</strong>, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, “Electrically controlled non-volatile switching of magnetism in multiferroic heterostructures via engineered ferroelastic domain states” NPG Asia Materials, 8, e316 (2016)</li>
+<li>	<strong>M. Liu*</strong>, T. Nan, J.-M. Hu, S. Zhao, <strong>Z. Zhou</strong>, C.-Y. Wang, Z.-D. Jiang, W. Ren, Z.-G. Ye, L.-Q. Chen, N. X. Sun, <a href="http://www.nature.com/am/journal/v8/n9/full/am2016139a.html">“Electrically controlled non-volatile switching of magnetism in multiferroic heterostructures via engineered ferroelastic domain states”</a>, NPG Asia Materials, 8, e316 (2016)</li>
 <li>	<strong>Z. Hu</strong>, X. Wang, T. Nan, <strong>Z. Zhou</strong>, B. Ma, X. Chen, J. G. Jones, B. M. Howe, G. J. Brown, Y. Gao, H. Lin, Z. Wang, R. Guo, S. Chen, X. Shi, W. Shi, H. Sun, D. Budil, <strong>M. Liu*</strong>, N. X. Sun, “Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures”, Scientific Reports, 6, 32408 (2016)</li>
 <li>	T. Nan, S. Emori, B. Peng, X. Wang, <strong>Z. Hu</strong>, L. Xie, Y. Gao, H. Lin, J. Jiao, H. Luo, D. Budil, J. G. Jones, B. M. Howe, G. J. Brown, <strong>M. Liu*</strong>, N. X. Sun, “Control of magnetic relaxation by electric-field-induced ferroelectric phase transition and inhomogeneous domain switching” Applied Physics Letters, 108, 012406 (2016) </li>
 <li>	<strong>Z. Zhou</strong>, S. Zhao, Y. Gao, X. Wang, T. Nan, N. X. Sun, X. Yang, <strong>M. Liu*</strong> “The memory effect of magnetoelectric coupling in FeGaB/NiTi/PMN-PT multiferroic heterostructure” Scientific Reports, 6, 20450 (2016) </li>
 <li>	Y. Zhang, <strong>M. Liu*</strong>, B. Peng, <strong>Z. Zhou</strong>, X. Chen, S. Yang, Z. Jiang, J. Zhang, W. Ren, Zuo-Guang Ye “Controlled Phase and Tunable Magnetism in Ordered Iron Oxide Nanotube Arrays Prepared by Atomic Layer Deposition” Scientific Reports, 6, 18401 (2016) </li>
-<li>X. Yang, <strong>Z. Zhou</strong>, T. Nan, Y. Gao, G. M. Yang, <strong>M. Liu*</strong>, N. X. Sun, “Recent Advances in Multiferroic Oxide Heterostructures and Devices” Journal of Materials Chemistry C, 4, 234-243 (2016) </li>
+<li>X. Yang, <strong>Z. Zhou</strong>, T. Nan, Y. Gao, G. M. Yang, <strong>M. Liu*</strong>, N. X. Sun, <a href="http://pubs.rsc.org/en/content/articlelanding/2016/tc/c5tc03008k#!divAbstract">“Recent Advances in Multiferroic Oxide Heterostructures and Devices”</a> Journal of Materials Chemistry C, 4, 234-243 (2016) </li>
 <li>	<strong>Z. Hu</strong>, B. Ma, M. Li, R.E. Koritala, and U. Balachandran, Ferroelectric PLZT thick films grown by poly (1-vinylpyrrolidone-co-vinyl acetate)(PVP/VA)-modified sol–gel process, Materials Research Bulletin, 75, 167-171 (2016).</li>
 <li>	Z. Wang, X. Wang, M. Li, Y. Gao, <strong>Z. Hu</strong>, et al, “Highly Sensitive Flexible Magnetic Sensor Based on Anisotropic Magnetoresistance Effect”, Advanced Materials, 28 (42), 9370 (2016).</li>
 
@@ -110,9 +110,9 @@ permalink: "/publications/"
 
 <h3>2013</h3>
 <hr>
-<li><strong>M. Liu*</strong>, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, “Voltage Tuning of Ferromagnetic Resonance with Bistable Magnetization Switching in Energy-Efficient Magnetoelectric Composites” Advanced Materials, 25 (10), 1435 (2013) </li>
+<li><strong>M. Liu*</strong>, Z. Y. Zhou, T. X. Nan, B. M. Howe, G. J. Brown, N. X. Sun, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201203792/full ">“Voltage Tuning of Ferromagnetic Resonance with Bistable Magnetization Switching in Energy-Efficient Magnetoelectric Composites”</a> Advanced Materials, 25 (10), 1435 (2013) </li>
 <li><strong>M. Liu*</strong>, J. Hoffman, J. Wang, J. X. Zhang, B. Nelson-Cheeseman, A. Bhattacharya, “Non-volatile ferroelastic switching of the Verwey transition and resistivity of epitaxial Fe3O4/PMN-PT (011)” Scientific Reports, 3, 1876 (2013)</li>
-<li><strong>M. Liu*</strong>, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, “Voltage-impulse-induced non-volatile ferroelastic switching of ferromagnetic resonance for reconfigurable magnetoelectric microwave devices” Advanced Materials, 25 (35), 4886 (2013)</li>
+<li><strong>M. Liu*</strong>, B. M. Howe, L. Grazulis, K. Mahalingam, T. X. Nan, N. X. Sun, G. J. Brown, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201301989/full">“Voltage-impulse-induced non-volatile ferroelastic switching of ferromagnetic resonance for reconfigurable magnetoelectric microwave devices”</a> Advanced Materials, 25 (35), 4886 (2013)</li>
 <li>S. D. Li, <strong>M. Liu</strong>, W. Q. Shao, J. Xu, S. O. Chen, Z. Y. Zhou, T. X. Nan, N. X. Sun, J. G. Duh, “Large E-field Tunability of Microwave Ferromagnetic Properties in Fe50Co50-Hf/lead Zinc Niobate-lead Titanate Multiferroic Laminates” Journal of Applied Physics, 113 (17), 17C727 (2013)</li>
 <li>S. D. Li, <strong>M. Liu</strong>, J. Lou, X. Xing, J.P. Wu, Y. Hu, X. L. Cai, F. Xu, N. X. Sun, J. G. Duh, “Microwave Frequency Performance and High Magnetic Anisotropy of Nanocrystalline Fe70Co30-B Films Prepared by Composition Gradient Sputtering” Journal of Nanoscience and Nanotechnology, 13 (2), 1091 (2013)</li>
 <li>S. D. Li, <strong>M. Liu</strong>, J. Lou, X. Xing, J. Qiu, J. H. Lin, Z. Y. Cai, F. Xu, N. X. Sun, J. G. Duh, “Tunable Microwave Frequency Performance of Nanocomposite Co2MnSi/PZN-PT Magnetoelectric Coupling Structure” Journal of Nanoscience and Nanotechnology, 13 (2), 1182 (2013) </li>
@@ -180,7 +180,7 @@ permalink: "/publications/"
 
 <h3>2010</h3>
 <hr>
-<li><strong>M. Liu</strong>, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V. G. Harris, N. X. Sun, “Giant Electric Field Tuning of Magnetic Properties in Multiferroic Ferrite/Ferroelectric Heterostructures”,  Advanced Functional Materials  10th Anniversary Edition </li>
+<li><strong>M. Liu</strong>, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V. G. Harris, N. X. Sun, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.200801907/full">“Giant Electric Field Tuning of Magnetic Properties in Multiferroic Ferrite/Ferroelectric Heterostructures”</a>,  Advanced Functional Materials  10th Anniversary Edition <mark>Selected as one of ten most outstanding papers published in Advanced Functional Materials in the past ten years</mark></li>
 <li><strong>M. Liu</strong>, O. Obi, Z. Cai, J. Lou, G. Yang, K. S. Ziemer, N. X. Sun, “Electrical Tuning of Magnetism in Fe3O4/PZN-PT Multiferroic Heterostructures Derived by Reactive Magnetron Sputtering”, Journal of Applied Physics, 107, 073916 (2010) </li>
 <li><strong>M. Liu</strong>, J. Lou, O. Obi, D. Reed, C. Pettiford, S. Stoute, N. X. Sun, “Strong Electric Field Tuning of Magnetism in Multiferroic Heterostructures” Advances in Electronic Ceramics,  30,  53, (2010) </li>
 <li>Z. Wang, K. Sun, W. Tong, M. Wu, <strong>M. Liu</strong>, N. X. Sun, “Microwave-Assisted Magnetization Reversal in Large-Damping Magnetic Films: Competition between Pumping and Damping”, Physics Review B, 81, 064402  (2010) </li>
@@ -193,7 +193,7 @@ permalink: "/publications/"
 <h3>2009</h3>
 <hr>
 <li><strong>M. Liu</strong>, O. Obi, J. Lou, Y. Chen, Z. Cai, S. Stoute, M. Espanol, M. Lew, X. Situ, K. S. Ziemer, V.G. Harris, N. X. Sun, “Giant Electric Field Tuning of Magnetic Properties in Multiferroic Ferrite/Ferroelectric Heterostructures” Advanced Functional Materials 19, 1826 (2009) <mark>(Selected as one of ten most outstanding papers published in Advanced Functional Materials in the past ten years)</mark></li>
-<li>J. Lou, <strong>M. Liu</strong>, D. Reed, Y. Ren, N. X. Sun, “Giant Electric Field Tuning of Magnetism in Novel Multiferroic FeGaB/Lead Zinc Niobate–Lead Titanate (PZN-PT) Heterostructures”, Advanced Maeterials, 21, 4711 (2009) </li>
+<li>J. Lou, <strong>M. Liu</strong>, D. Reed, Y. Ren, N. X. Sun, <a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.200901131/full">“Giant Electric Field Tuning of Magnetism in Novel Multiferroic FeGaB/Lead Zinc Niobate–Lead Titanate (PZN-PT) Heterostructures”</a>, Advanced Maeterials, 21, 4711 (2009) </li>
 <li><strong>M. Liu</strong>, O. Obi, J. Lou, S. Stoute, Z. Cai, K. S. Ziemer, N. X. Sun “Strong Magnetoelectric coupling in Ferrite/Ferroelectric Multiferroic Heterostructures Derived by Low Temperature Spin-spray Deposition”,  Journal of Physics D: Applied Physics, 42, 045007 (2009) </li>
 <li>G. M. Yang, A. Shrabstein, X. Xing, O. Obi, S. Stoute, <strong>M. Liu</strong>, J. Lou, N. X. Sun “Miniaturized Antennas and Planar Bandpass Filters With Self-Biased NiCo-Ferrite Films” IEEE Transactions on Magnetics, 45, 4191 (2009) </li>
 <li>Y. Chen, J. Gao, J. Lou, <strong>M. Liu</strong>, S. D. Yoon, A. L. Geiler, M. Nedoroscik, D. Heiman, N. X. Sun, C. Vittoria, V. G. Harris, “Microwave tunability in a GaAs-based multiferroic heterostructure: Co2MnAl/GaAs/PMN-PT”, Journal of Applied Physics, 105, 07A510 (2009) </li>

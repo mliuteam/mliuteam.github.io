@@ -3,7 +3,7 @@
   side: left
 
 - title: "News"
-  url: "/press/"
+  url: "/news/"
   side: left
   dropdown:
   - title: "Press"

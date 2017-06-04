@@ -1,6 +1,6 @@
 ---
-layout: page
-subheadline:  "Advanced Materials May 03 cover article"
+layout: page-fullwidth
+subheadline:  "Advanced Functional Materials March 10 cover article"
 title:  "Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics"
 teaser: " Author Mingming Zhu"
 categories:
@@ -8,13 +8,19 @@ categories:
 tags:
     - press
 header: no
-show_meta: false
+image:
+    title: chatu.png
+    thumb: chatu.png
+    homepage: chatu.png
+    caption: Photo by Advanced Functional Materials
+    caption_url: /press/Modulation-of-spin-dynamics-via-voltage-control-of-spin-lattice-coupling-in-multiferroics/
+show_meta: true
 ---
 <!--more-->
 <!--<div class="row">-->
 <div >
 <p><img src="{{ site.urlimg }}zhu-AFM cover.png" class="alignleft" width="200" height="350">
-M. Zhu, Z. Zhou, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren, Z-G Ye, Y. Liu, M. Liu <h3>Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics</h3>Advanced Functional Materials, 27, 1605598 (2017)</p>
+M. Zhu, Z. Zhou, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren, Z-G Ye, Y. Liu, M. Liu <h3>Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics</h3>Advanced Functional Materials, 27, 1605598 (2017)</p><a href="http://onlinelibrary.wiley.com/doi/10.1002/adfm.201605598/full">Full text</a>
 </div>
 <div style="display: inline-block;">
 <h2>Abstract</h2>

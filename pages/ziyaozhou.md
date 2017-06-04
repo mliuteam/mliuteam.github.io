@@ -71,6 +71,7 @@ header: no
 <hr>
 <ol>
 <li>The Youth Talent Program, at Xi’an Jiaotong University  (2016)</li>
+<li>'Thousand Talent’ Program, the Organization Department of the Central Committee of the CPC (2016)</li>
 <li>Director’s Postdoctoral Fellowship of Argonne National Laboratory （2015）</li>
 <li>Invited Paper, Antiferroelectric Materials and Applications, SPIN, (2015)</li>
 <li>Invited Talk, Crystal growth and its energy and environmental applications, 4th International </li>
@@ -80,6 +81,10 @@ header: no
 <li>Lawrence Awards, Graduate Academic Excellence, Northeastern University, Boston, MA, USA (2009).</li>
 <li>National Physics Olympiad, Second Prize, China (2004). </li>
 </ol>
+
+### Biography
+
+<p>  Dr. Ziyao Zhou is the professor at School of Electrical and Information Engineering, Integrated Multiferroic Materials and Devices at Xian Jiaotong Uinviersity. Dr. Zhou was the recipient of ‘The Youth Talent Program of Xi'an Jiaotong University. He obtained his Ph.D. degree from Northeastern University in Boston. Prior to joining XJTU, he completed Postdoctoral at Argonne National Laboratory and won the Argonne Director’s Postdoc Fellowship Award.</p>
 
 ## Skills Summary
 <hr>

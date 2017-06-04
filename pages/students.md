@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+title: "Students"
 format: blog-index
 # Don't index these pages dear Google.
 noindex: true
@@ -177,7 +178,7 @@ permalink: "/students/"
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-<h4>Graduated Students</h4>
+<h4>Graduate</h4>
 <hr>
 <div class="medium-4 columns">
         <img src="{{ site.urlimg }}zcx.png" alt="">

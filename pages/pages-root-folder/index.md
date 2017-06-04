@@ -14,7 +14,7 @@ widget1:
   text: ' Dr. Ming Liu is a "Tengfei" professor at School of Electrical and Information Engineering, and director of the laboratory for Integrated Multiferroic Materials and Devices. '
 widget2:
   title: "Research Articles"
-  url: '/articlelist/'
+  url: '/publications/'
   text: 'The articles of Ph.D student Mingming Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials. '
   image: amcover2.png
 widget3:
@@ -56,8 +56,8 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>-->
 
-<div class="row t30 b20 homepage">
+<!--<div class="row t30 b20 homepage">
 <div class="small-12 columns">
 <img src="{{ site.urlimg }}chatu.png"">
 </div>
-</div>
+</div>-->
