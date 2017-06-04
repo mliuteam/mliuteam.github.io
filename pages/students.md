@@ -7,14 +7,12 @@ header: no
 permalink: "/students/"
 ---
 <div class="row t30">
-            <h2 style="margin:0px;">h.D students:</h2><hr>
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}zmm.png" alt="">
          <p class="subheadline">
              <span class="subheader">Mingming Zhu</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>
-        Spin dynamics in the multiferroic heterostructures;Spin wave based devices;The fabrication and study of PMA films</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Spin dynamics in the multiferroic heterostructures;Spin wave based devices;The fabrication and study of PMA films</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}dgh.png" alt="">
@@ -37,15 +35,14 @@ permalink: "/students/"
          <p class="subheadline">
              <span class="subheader">Xu Xue</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>
-        novel magnetic, ferroelectric and multiferroic materials.</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Novel magnetic, ferroelectric and multiferroic materials.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}gmm.png" alt="">
         <p class="subheadline">
              <span class="subheader">Mengmeng Guan</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>  YIG—based electric field tunable filter</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> YIG—based electric field tunable filter</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yq.png" alt="">
@@ -61,7 +58,7 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Hongjia Zhang</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>1.	Flexible electronics of Multiferroic magnetoelectric.</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Flexible electronics of Multiferroic magnetoelectric.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}hwx.png" alt="">
@@ -75,7 +72,7 @@ permalink: "/students/"
          <p class="subheadline">
              <span class="subheader">Mouteng Yao</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>Ionic-liquid-gating control of interfacial magnetism.
+        <p style="color:#0755a0"><em>Research Interests:</em> Ionic-liquid-gating control of interfacial magnetism.
 </p>
     </div><!-- /.medium-4.columns -->
   </div><!-- /.row -->  
@@ -85,30 +82,19 @@ permalink: "/students/"
         <p class="subheadline"><span class="subheader">Dan Xian</span></p>
         <p style="color:#0755a0"><em>Research Interests:</em> Fabrication of Magneto-Electric Devices</p>
     </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-<div class="row t30">
-<h2 style="margin:0px;">Graduate students:</h2>
-<hr>
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}zss.png" alt="">
          <p class="subheadline">
              <span class="subheader">Shishun Zhao</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>the interesting magnetoelectric coupling phenomenon at the surfaces or interfaces of the laminated film heterostructures.</p>
-    </div><!-- /.medium-4.columns -->
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zcx.png" alt="">
-         <p class="subheadline">
-             <span class="subheader">Chenxi Zhang</span>
-        </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>tunable inductors and filters based on multiferroic composites.</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> The interesting magnetoelectric coupling phenomenon at the surfaces or interfaces of the laminated film heterostructures.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}fmm.png" alt="">
         <p class="subheadline">
              <span class="subheader">Mengmeng Feng</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em> voltage control of perpendicular magnetic anisotropy in multiferroic heterostructure.</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Voltage control of perpendicular magnetic anisotropy in multiferroic heterostructure.</p>
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
@@ -118,21 +104,21 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Xinger Zhao</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em></p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yb.png" alt="">
          <p class="subheadline">
              <span class="subheader">Bin Yu</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em></p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}lq.png" alt="">
         <p class="subheadline">
              <span class="subheader">Qi Lu</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em> interfacial magnetism tuning and two-dimensional device.</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Interfacial magnetism tuning and two-dimensional device.</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <div class="row t30">
@@ -141,21 +127,21 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Chunlei Li</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>magne ionic liquilds</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Magne ionic liquilds</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}pjt.png" alt="">
          <p class="subheadline">
              <span class="subheader">Jiangtao Pu</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>Mico-nano machining</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Mico-nano machining</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}sw.png" alt="">
         <p class="subheadline">
              <span class="subheader">Wei Su</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em> </p>
+         <!--<p style="color:#0755a0"><em>Research Interests:</em> </p>-->
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <div class="row t30">
@@ -164,32 +150,39 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Liqian Wang</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em>low voltage regulation of magnetoelectric materials</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Low voltage regulation of magnetoelectric materials</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yzf.png" alt="">
          <p class="subheadline">
              <span class="subheader">Zefeng Yue</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em></p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-<div class="row t30">
-<h2 style="margin:0px;">Undergraduate students:</h2>
-<hr>
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yy.png" alt="">
          <p class="subheadline">
              <span class="subheader">Yuan Yan</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em></p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
+</div>
+<div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}zy.png" alt="">
         <p class="subheadline">
              <span class="subheader">Yao Zhang</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em></p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
+<h4>Graduated Students</h4>
+<hr>
+<div class="medium-4 columns">
+        <img src="{{ site.urlimg }}zcx.png" alt="">
+         <p class="subheadline">
+             <span class="subheader">Chenxi Zhang(#2017)</span>
+        </p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Tunable inductors and filters based on multiferroic composites.</p>
+    </div><!-- /.medium-4.columns -->

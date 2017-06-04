@@ -34,10 +34,11 @@ widget3:
 #
 permalink: /index.html
 
-callforaction:
-  url: '/about/'
-  text: <p><h3 style="color:#FFF;">About</h3> Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education &amp; International Center for Dielectric Research...</p>more>
-  style: secondary
+#callforaction:
+ # url: '/about/'
+  #text: 
+  #style: 
+ 
 
 
 #
@@ -54,3 +55,9 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>-->
+
+<div class="row t30 b20 homepage">
+<div class="small-12 columns">
+<img src="{{ site.urlimg }}chatu.png"">
+</div>
+</div>

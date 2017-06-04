@@ -2,14 +2,19 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
+- title: "News"
+  url: "/press/"
   side: left
   dropdown:
-  - title: "Laboratory"
-    url: "/laboratory/"
+  - title: "Press"
+    url: "/press/"
+  # - title: "Awards"
+  #   url: "/awards/"
+  # - title: "Lab News"
+  #   url: "/labnews/"
 
-- title: "Members"
+- title: "People"
+  url: "/people/"
   side: left
   dropdown:
   - title: "Faculties"
@@ -17,22 +22,20 @@
   - title: "Students"
     url: "/students/"
 
-- title: "Articles"
-  url: "/articlelist/"
+- title: Research
+  url: "/research/"
   side: left
 
-- title: "News"
+- title: "Publications"
+  url: "/publications/"
   side: left
-  dropdown:
-  - title: "Press"
-    url: "/press/"
-  - title: "Awards"
-    url: "/awards/"
-  - title: "Lab News"
-    url: "/labnews/"
 
-- title: "Opening"
-  url: "/opening/"
+- title: "Facilities"
+  url: "/facilities/"
+  side: left
+
+- title: "Opportunities"
+  url: "/opportunities/"
   side: left
   # - title: "Typography"
   #   url: "/design/typography/typography/"
@@ -88,10 +91,10 @@
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Search"
+#   url: "/search/"
+#   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right

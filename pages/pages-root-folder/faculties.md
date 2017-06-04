@@ -12,9 +12,9 @@ permalink: "/faculties/"
     <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
-            <p class="subheadline">
+            <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
-            </p>
+            </p>-->
             <h2 style="margin:0px;"><a href="/mingliu/">Professor Ming Liu</a></h2>
             <p>
 <a href="/mingliu/" title="Prof.M.Liu"><img src="{{ site.urlimg }}mliucube.png" class="alignleft" width="170" height="170"></a>
@@ -26,9 +26,9 @@ Dr. Ming Liu is the "Tengfei" professor at School of Electrical and Information 
     <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
-            <p class="subheadline">
+            <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
-            </p>
+            </p>-->
             <h2 style="margin:0px;"><a href="/ziyaozhou/">Professor Ziyao Zhou</a></h2>
             <p>
 <a href="/ziyaozhou/" title="Prof.Z.Zhou"><img src="{{ site.urlimg }}zyzcube.png" class="alignleft" width="170" height="170"></a>
@@ -40,9 +40,9 @@ Dr. Ziyao Zhou is the professor at School of Electrical and Information Engineer
 <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
-            <p class="subheadline">
+            <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
-            </p>
+            </p>-->
             <h2 style="margin:0px;"><a href="/zhongqianghu/">Professor Zhongqiang Hu</a></h2>
             <p>
 <a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}zqhcube.png" class="alignleft" width="170" height="170"></a>
@@ -55,9 +55,9 @@ Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Educ
     <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
-            <p class="subheadline">
+            <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
-            </p>
+            </p>-->
             <h2 style="margin:0px;"><a href="/binpeng/">lecturer Bin Peng</a></h2>
             <p>
 <a href="/binpeng/" title="Lecturer B.Peng"><img src="{{ site.urlimg }}bpcube.png" class="alignleft" width="170" height="170"></a>

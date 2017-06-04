@@ -3,8 +3,8 @@ layout: page
 show_meta: false
 title: "Pressed articles"
 subheadline: "Our research highlights"
-header:
-   image_fullwidth: "logowide.png"
+header: no
+#   image_fullwidth: "logowide.png"
 permalink: "/press/"
 ---
 <ul>

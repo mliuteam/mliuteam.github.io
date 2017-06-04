@@ -3,9 +3,9 @@ layout: page
 title: "Opportunities"
 meta_title: "Find What You want"
 teaser: "Available positions for undergraduate, graduate and postdoc."
-header:
-   image_fullwidth: "logowide.png"
-permalink: "/opening/"
+header: no
+ #  image_fullwidth: "logowide.png"
+permalink: "/opportunities/"
 ---
 ## Graduate students
 <img src="{{ site.urlimg }}teaching.jpg" width="970">
