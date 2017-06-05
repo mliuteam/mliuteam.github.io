@@ -96,7 +96,6 @@ header: no
 <hr>
 <ol>
 <li>The Youth Talent Program, at Xi’an Jiaotong University  （2017）</li>
-<li>'Thousand Talent’ Program, the Organization Department of the Central Committee of the CPC (2016)</li>
 <li>Principal Investigator of STTR Phase II Project, DARPA   （2015）</li>
 <li>AExcellent Ph.D. Dissertation, Hubei Province  （2013）</li>
 <li>Innovative Graduate Students Education Program, MOE of China （2010）</li>
