@@ -9,21 +9,21 @@ permalink: "/students/"
 ---
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zmm.png" alt="">
+        <img src="{{ site.urlimg }}yzmm.png" alt="" width="250">
          <p class="subheadline">
-             <span class="subheader">Mingming Zhu</span>
+             <span class="subheader">Mingmin Zhu</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Spin dynamics in the multiferroic heterostructures;Spin wave based devices;The fabrication and study of PMA films</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}dgh.png" alt="">
+        <img src="{{ site.urlimg }}ydgh.png" alt="" width="250">
         <p class="subheadline">
              <span class="subheader">Guohua Dong</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Epitaxial 3D Nano-multiferroic heterostructure based on oxide thin films and microstructural characterizations with TEM and STEM.</p>
     </div>
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zl.png" alt="">
+        <img src="{{ site.urlimg }}yzl.png" alt="" width="250">
         <p class="subheadline">
              <span class="subheader">Le Zhang</span>
         </p>
@@ -128,7 +128,7 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Chunlei Li</span>
         </p>
-        <p style="color:#0755a0"><em>Research Interests:</em> Magne ionic liquilds</p>
+        <p style="color:#0755a0"><em>Research Interests:</em> Voltage control interfacial magnetism.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}pjt.png" alt="">
@@ -142,7 +142,7 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Wei Su</span>
         </p>
-         <!--<p style="color:#0755a0"><em>Research Interests:</em> </p>-->
+         <p style="color:#0755a0"><em>Research Interests:</em> Electric field control of spin hall effect. </p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <div class="row t30">

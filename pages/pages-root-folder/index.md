@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Research Articles"
   url: '/publications/'
-  text: 'The articles of Ph.D student Mingming Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials. '
+  text: 'The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials. '
   image: amcover2.png
 widget3:
   title: "Opportunities"

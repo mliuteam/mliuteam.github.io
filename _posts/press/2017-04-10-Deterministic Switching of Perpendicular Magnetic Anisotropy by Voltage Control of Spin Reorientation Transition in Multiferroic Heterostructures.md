@@ -13,7 +13,8 @@ show_meta: false
 <!--more-->
 <!--<div class="row">-->
 <div >
-<p>B. Peng, Z. Zhou#, T. Nan#, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z.-D. Jiang, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, <h3>Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Multiferroic Heterostructures</h3> ACS Nano, 11 , 4337-4345 (2017)</p><a href=")http://pubs.acs.org/doi/abs/10.1021/acsnano.7b01547">Full text</a>
+<p>B. Peng, Z. Zhou#, T. Nan#, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z.-D. Jiang, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, <h3>Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Multiferroic Heterostructures</h3> ACS Nano, 11 , 4337-4345 (2017)</p>
+<a href="http://pubs.acs.org/doi/abs/10.1021/acsnano.7b01547">Full text</a>
 </div>
 <div style="display: inline-block;">
 <h2>Abstract</h2>

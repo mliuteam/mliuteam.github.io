@@ -14,7 +14,7 @@ show_meta: false
 <!--<div class="row">-->
 <div >
 <p><img src="{{ site.urlimg }}adma_zss_cover.png" class="alignleft" width="200" height="350">
-Zhao, S., Z. Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z.G. Ye, Y. Liu and M. Liu <h3> Quantitative Determination on Ionic‐Liquid‐Gating Control of Interfacial Magnetism.</h3> Advanced Materials, 2017. DOI: 10.1002/adma.201606478</p><a href=")http://onlinelibrary.wiley.com/doi/10.1002/adma.201606478/full">Full text</a>
+ S. Zhao, Z. Zhou, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z.G. Ye, Y. Liu and M. Liu <h3> Quantitative Determination on Ionic‐Liquid‐Gating Control of Interfacial Magnetism.</h3> Advanced Materials, 2017. DOI: 10.1002/adma.201606478</p><a href="http://onlinelibrary.wiley.com/doi/10.1002/adma.201606478/full">Full text</a>
 </div>
 <div style="display: inline-block;">
 <h2>Abstract</h2>

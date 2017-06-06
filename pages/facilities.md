@@ -56,7 +56,7 @@ permalink: "/facilities/"
     <div class="medium-6 columns b30">
         <img  src="{{ site.urlimg }}PLD2.png" alt="" style="width:500px;height:310px;">
     </div><!-- /.medium-6.columns -->
-    <p style="text-align:center;"> PLD-激光脉冲沉积系统</p>
+    <p style="text-align:center;"> Pulsed Laser Deposition（PLD）-激光脉冲沉积系统</p>
     </div>
 </div><!-- /.row -->
 <div class="row t60">
@@ -97,7 +97,7 @@ permalink: "/facilities/"
     </div><!-- /.medium-6.columns -->
         <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}Atomic Force Microscope.png" alt="" style="width:500px;height:310px;" >
-        <p style="text-align:center;"> Atomic Force Microscope.png(AFM)-原子力显微镜</p>
+        <p style="text-align:center;"> Atomic Force Microscope(AFM)-原子力显微镜</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <div class="row t60">
