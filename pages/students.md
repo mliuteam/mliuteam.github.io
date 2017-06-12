@@ -154,14 +154,14 @@ permalink: "/students/"
         <p style="color:#0755a0"><em>Research Interests:</em> Low voltage regulation of magnetoelectric materials</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yyzf.png" alt=""width="280">
+        <img src="{{ site.urlimg }}yyzf.png" alt="" width="280">
          <p class="subheadline">
              <span class="subheader">Zefeng Yue</span>
         </p>
         <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yyy.png" alt=""width="280">
+        <img src="{{ site.urlimg }}yyy.png" alt="" width="280">
          <p class="subheadline">
              <span class="subheader">Yuan Yan</span>
         </p>
@@ -181,7 +181,7 @@ permalink: "/students/"
 <h4>Graduate</h4>
 <hr>
 <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yzcx.png" alt=""width="280">
+        <img src="{{ site.urlimg }}yzcx.png" alt="" width="280">
          <p class="subheadline">
              <span class="subheader">Chenxi Zhang(#2017)</span>
         </p>
