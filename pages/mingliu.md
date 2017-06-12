@@ -24,6 +24,9 @@ header: no
 
 ## About
 
+### Biography
+<p>  Dr. Ming Liu is the "Tengfei" professor at School of Electrical and Information Engineering, the director of the laboratory for Integrated Multiferroic Materials and Devices, and the Vice Dean of Graduate School at Xian Jiaotong Uinviersity. He obtained his Ph.D. degree from Northeastern University in Boston. Prior to joining XJTU, he was a research scientist at AFRL and Argonne Scholar at Argonne National Laboratory. Dr. Liu was the recipient of ‘One Thousand Talents Plan’ of China, ‘ One Hundred Talents Plan’ of Shaanxi Province, Argonne Director’s Postdoc Fellowship and NEU Outstanding Research Award. Dr. Liu’s research has been focusing on the intelligent magnetic materials and devices, integrated multiferroics for novel electronics/spintronics, RF devices and memories. He has over 100 peer-reviewed articles (Such as Nat. Commun., Adv. Mater., Adv. Funct. Mater., ACS Nano, IEEE series etc.) and 40 conference abstracts. One of the first-authored paper was selected as "the 10 most outstanding full papers in the past ten years (2001~2010) in Advanced Functional Materials”. The total citation is over 2600 times, with H factor 27, and three of them were cited more than 100 times. Dr. Liu has given over 30 invited presentations and seminars in national and international conferences, universities. He serves as the associate editor of JMIHI, editorial board member of Scientific Reports and IEEE Mag. Lett., and the guest editor of Sensors and Physics Letter A. He is the senior member of the Chinese Institute of Electronics. Dr. Liu led and participated many General Programs and Key Programs from the National Natural Science Foundation of China, programs of the State Key Development Program for Basic Research of China and 2011 collaborative innovation center, and programs of AFEL, US Naval Research Office, National Science Foundation and National Energy Technology Laboratory.</p>
+
 ### Education   {#formats}
 <hr>
 <table style="border:none;background:none;">
@@ -31,19 +34,19 @@ header: no
     <th>Ph.D.</th>
     <th>Electrical Engineering</th>
     <th>Northeastern University</th>
-    <th>2006.08 to 2010.05</th>
+    <th>2010.05</th>
 </tr>
 <tr style="border:none;background:none;">
     <th>M.Sc</th>
     <th>State Key Laboratory of Molecular Reaction Dynamics</th>
     <th>Dalian Institute of Chemical Physics, CAS</th>
-    <th>2001.09 to 2004.07</th>
+    <th>2004.07</th>
 </tr>
 <tr style="border:none;background:none;">
     <th>B.A.</th>
     <th>Mathematical Physics</th>
     <th>Inner Mongoliar University</th>
-    <th>1995.09 to 1999.07</th>
+    <th>1999.07</th>
 </tr>
 </table >
 
@@ -60,7 +63,7 @@ header: no
 <tr style="border:none;background:none;">
     <th>Research Scientist</th>
     <th>Materials Manufactory Division</th>
-    <th>Air Force Research Laboratory (AFRL)</th>
+    <th>AFRL</th>
     <th>U.S.A</th>
      <th>2012.07 to 2013.09</th>
 </tr>
@@ -97,8 +100,7 @@ header: no
 <li>Senior Member of the Chinese Institute of Electronics</li>
 </ul>
 
-### Biography
-<p>  Dr. Ming Liu is the "Tengfei" professor at School of Electrical and Information Engineering, the director of the laboratory for Integrated Multiferroic Materials and Devices, and the Vice Dean of Graduate School at Xian Jiaotong Uinviersity. He obtained his Ph.D. degree from Northeastern University in Boston. Prior to joining XJTU, he was a research scientist at AFRL and Argonne Scholar at Argonne National Laboratory. Dr. Liu was the recipient of ‘One Thousand Talents Plan’ of China, ‘ One Hundred Talents Plan’ of Shaanxi Province, Argonne Director’s Postdoc Fellowship and NEU Outstanding Research Award. Dr. Liu’s research has been focusing on the intelligent magnetic materials and devices, integrated multiferroics for novel electronics/spintronics, RF devices and memories. He has over 100 peer-reviewed articles (Such as Nat. Commun., Adv. Mater., Adv. Funct. Mater., ACS Nano, IEEE series etc.) and 40 conference abstracts. One of the first-authored paper was selected as "the 10 most outstanding full papers in the past ten years (2001~2010) in Advanced Functional Materials”. The total citation is over 2600 times, with H factor 27, and three of them were cited more than 100 times. Dr. Liu has given over 30 invited presentations and seminars in national and international conferences, universities. He serves as the associate editor of JMIHI, editorial board member of Scientific Reports and IEEE Mag. Lett., and the guest editor of Sensors and Physics Letter A. He is the senior member of the Chinese Institute of Electronics. Dr. Liu led and participated many General Programs and Key Programs from the National Natural Science Foundation of China, programs of the State Key Development Program for Basic Research of China and 2011 collaborative innovation center, and programs of AFEL, US Naval Research Office, National Science Foundation and National Energy Technology Laboratory.</p>
+
 
 ## Research Interests
 Dr. Liu’s research has been focusing on <strong>the intelligent magnetic materials and devices</strong>, <strong>integrated multiferroics for novel electronics/spintronics</strong>, <strong>RF devices and memories</strong>. 
