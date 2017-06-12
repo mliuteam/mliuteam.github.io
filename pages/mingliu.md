@@ -58,21 +58,21 @@ header: no
     <th>the laboratory for Integrated Multiferroic Materials and Devices</th>
     <th>Xi'an Jiaotong University</th>
     <th>China</th>
-    <th>2013.09 to Present</th>
+    <th>2013 to Present</th>
 </tr>
 <tr style="border:none;background:none;">
     <th>Research Scientist</th>
     <th>Materials Manufactory Division</th>
     <th>AFRL</th>
     <th>U.S.A</th>
-     <th>2012.07 to 2013.09</th>
+     <th>2012 to 2013</th>
 </tr>
 <tr style="border:none;background:none;">
     <th>Argonne Scholar</th>
     <th>Center for Nanoscale Materials</th>
     <th>Argonne National Laboratory (ANL)</th>
     <th>U.S.A</th>
-     <th>2010.12 to 2012.07</th>
+     <th>2010 to 2012</th>
 </tr>
 </table >
 
