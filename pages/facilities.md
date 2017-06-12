@@ -99,6 +99,10 @@ permalink: "/facilities/"
         <img src="{{ site.urlimg }}Atomic Force Microscope.png" alt="" style="width:500px;height:310px;" >
         <p style="text-align:center;"> Atomic Force Microscope(AFM)-原子力显微镜</p>
     </div><!-- /.medium-6.columns -->
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}hrxrd.png" alt="" style="width:479px;height:670px;" >
+        <p style="text-align:center;"> HRXRD-高分辨率X射线衍射仪</p>
+    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <div class="row t60">
     <p class="subheadline">

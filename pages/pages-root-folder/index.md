@@ -11,17 +11,25 @@ widget1:
   title: "Prof. Ming Liu"
   url: '/mingliu/'
   image: mliu.jpg
-  text: ' Dr. Ming Liu is a "Tengfei" professor at School of Electrical and Information Engineering, and director of the laboratory for Integrated Multiferroic Materials and Devices. '
+  text: ' <h6>Vice Dean of Graduate School at XJTU </h6>西安交通大学研究生院副院长
+  <h6>Thousand Talent Program  of CPC </h6> 中组部"青年千人"
+<h6>Hundred-Talent of XJTU </h6>西安交通大学青年拔尖人才
+<h6>Tengfei Distinguished Professor </h6> 西安交通大学腾飞教授'
 widget2:
   title: "Research Articles"
   url: '/publications/'
-  text: 'The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials. '
+  text: 'The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials, which are "Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics" and "Quantitative Determination on Ionic Liquid Gating Control of Interfacial Magnetism".'
   image: amcover2.png
 widget3:
-  title: "Opportunities"
-  url: '/opening/'
-  image: teaching.jpg
-  text: 'Available positions: we are currently seeking postdoctoral researchers,Ph.D, graduate and undergraduate students in the fields of magnetics, multiferroics, and spintronics. '
+  title: "Research"
+  url: '/research/'
+  image: spinronics800.png
+  text: 'The Integrated Ferroic Laboratory designs and studies the dynamical behavior of magnetic, ferroelectric, and magneto-electric materials and micro/nano-structures. We are interested in new concepts for electric-field control of the electrical, magnetic, optical, and structural properties via strain, charge, ions, and exchange bias, which will be used for next-generation ...'
+#widget3:
+#  title: "Opportunities"
+ # url: '/opening/'
+  #image: teaching.jpg
+  #text: 'Available positions: we are currently seeking postdoctoral researchers,Ph.D, graduate and undergraduate students in the fields of magnetics, multiferroics, and spintronics. '
 #
 # Use the call for action to show a button on the frontpage
 #
