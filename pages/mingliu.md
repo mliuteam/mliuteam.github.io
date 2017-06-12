@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Bio Sketch of Professor Ming Liu"
-subheadline: "Electronic Enginnering Schoole at XJTU"
-teaser: "Director of the laboratory for Integrated Multiferroic Materials and Devices"
+title: "Professor Ming Liu"
+#subheadline: "Electronic Enginnering Schoole at XJTU"
+teaser: "Director of the Laboratory for Integrated ferroic Materials and Devices"
 permalink: "/mingliu/"
 header: no
  #  image_fullwidth: "group.jpg"

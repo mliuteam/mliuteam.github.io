@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Bio Sketch of Professor Zhongqiang Hu"
-subheadline: "Electronic Enginnering Schoole at XJTU"
+title: "Professor Zhongqiang Hu"
+#subheadline: "Electronic Enginnering Schoole at XJTU"
 teaser: "Professor of Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research"
 permalink: "/zhongqianghu/"
 header: no
@@ -87,17 +87,21 @@ header: no
     <th>Physics Letter A</th>
 </tr>
 <tr style="border:none;background:none;">
-    <th>Member of the American Ceramic Society</th>
-    <th>APL,JACerS<,JAP,J. Alloys Compd,etc.</th>
+    <th>Member </th>
+    <th>ACerS，MRS</th>
+</tr>
+<tr style="border:none;background:none;">
+    <th>Reviewer</th>
+    <th>APL, JACerS, JAP, J. Alloys Compd, etc.</th>
 </tr>
 </table >
 
 ### Honors
 <hr>
 <ol>
-<li>The Youth Talent Program, at Xi’an Jiaotong University  （2017）</li>
+<li>The Youth Talent Program, Xi’an Jiaotong University  （2017）</li>
 <li>Principal Investigator of STTR Phase II Project, DARPA   （2015）</li>
-<li>AExcellent Ph.D. Dissertation, Hubei Province  （2013）</li>
+<li>Excellent Ph.D. Dissertation, Hubei Province  （2013）</li>
 <li>Innovative Graduate Students Education Program, MOE of China （2010）</li>
 </ol>
 

@@ -32,21 +32,21 @@ permalink: "/students/"
 </div><!-- /.row -->
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}xx.png" alt="">
+        <img src="{{ site.urlimg }}yxx.png" alt="">
          <p class="subheadline">
              <span class="subheader">Xu Xue</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Novel magnetic, ferroelectric and multiferroic materials.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}gmm.png" alt="">
+        <img src="{{ site.urlimg }}ygmm.png" alt="">
         <p class="subheadline">
              <span class="subheader">Mengmeng Guan</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> YIG—based electric field tunable filter</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yq.png" alt="">
+        <img src="{{ site.urlimg }}yyq.png" alt="">
         <p class="subheadline">
              <span class="subheader">Qu Yang</span>
         </p>
@@ -55,21 +55,21 @@ permalink: "/students/"
 </div><!-- /.row -->
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zhj.png" alt="">
+        <img src="{{ site.urlimg }}yzhj.png" alt="">
         <p class="subheadline">
              <span class="subheader">Hongjia Zhang</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Flexible electronics of Multiferroic magnetoelectric.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}hwx.png" alt="">
+        <img src="{{ site.urlimg }}yhwx.png" alt="">
         <p class="subheadline">
              <span class="subheader">Weixiao Hou</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Multiferroic materials; Microwave Ferrites; Spintronics.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}ymt.png" alt="">
+        <img src="{{ site.urlimg }}yymt.png" alt="">
          <p class="subheadline">
              <span class="subheader">Mouteng Yao</span>
         </p>
@@ -79,19 +79,19 @@ permalink: "/students/"
   </div><!-- /.row -->  
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}xd.png" alt="">
+        <img src="{{ site.urlimg }}yxd.png" alt="">
         <p class="subheadline"><span class="subheader">Dan Xian</span></p>
         <p style="color:#0755a0"><em>Research Interests:</em> Fabrication of Magneto-Electric Devices</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zss.png" alt="">
+        <img src="{{ site.urlimg }}yzss.png" alt="">
          <p class="subheadline">
              <span class="subheader">Shishun Zhao</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> The interesting magnetoelectric coupling phenomenon at the surfaces or interfaces of the laminated film heterostructures.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}fmm.png" alt="">
+        <img src="{{ site.urlimg }}yfmm.png" alt="">
         <p class="subheadline">
              <span class="subheader">Mengmeng Feng</span>
         </p>
@@ -101,21 +101,21 @@ permalink: "/students/"
 </div><!-- /.row -->
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zxe.png" alt="">
+        <img src="{{ site.urlimg }}yzxe.png" alt="">
         <p class="subheadline">
              <span class="subheader">Xinger Zhao</span>
         </p>
         <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yb.png" alt="">
+        <img src="{{ site.urlimg }}yyb.png" alt="">
          <p class="subheadline">
              <span class="subheader">Bin Yu</span>
         </p>
         <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}lq.png" alt="">
+        <img src="{{ site.urlimg }}ylq.png" alt="">
         <p class="subheadline">
              <span class="subheader">Qi Lu</span>
         </p>
@@ -124,21 +124,21 @@ permalink: "/students/"
 </div><!-- /.row -->
 <div class="row t30">
         <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}lcl.png" alt="">
+        <img src="{{ site.urlimg }}ylcl.png" alt="">
         <p class="subheadline">
              <span class="subheader">Chunlei Li</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Voltage control interfacial magnetism.</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}pjt.png" alt="">
+        <img src="{{ site.urlimg }}ypjt.png" alt="">
          <p class="subheadline">
              <span class="subheader">Jiangtao Pu</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Mico-nano machining</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}sw.png" alt="">
+        <img src="{{ site.urlimg }}ysw.png" alt="">
         <p class="subheadline">
              <span class="subheader">Wei Su</span>
         </p>
@@ -147,21 +147,21 @@ permalink: "/students/"
 </div><!-- /.row -->
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}wlq.png" alt="">
+        <img src="{{ site.urlimg }}ywlq.png" alt="">
         <p class="subheadline">
              <span class="subheader">Liqian Wang</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Low voltage regulation of magnetoelectric materials</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yzf.png" alt="">
+        <img src="{{ site.urlimg }}yyzf.png" alt="">
          <p class="subheadline">
              <span class="subheader">Zefeng Yue</span>
         </p>
         <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yy.png" alt="">
+        <img src="{{ site.urlimg }}yyy.png" alt="">
          <p class="subheadline">
              <span class="subheader">Yuan Yan</span>
         </p>
@@ -170,7 +170,7 @@ permalink: "/students/"
 </div>
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zy.png" alt="">
+        <img src="{{ site.urlimg }}yzy.png" alt="">
         <p class="subheadline">
              <span class="subheader">Yao Zhang</span>
         </p>
@@ -181,7 +181,7 @@ permalink: "/students/"
 <h4>Graduate</h4>
 <hr>
 <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}zcx.png" alt="">
+        <img src="{{ site.urlimg }}yzcx.png" alt="">
          <p class="subheadline">
              <span class="subheader">Chenxi Zhang(#2017)</span>
         </p>

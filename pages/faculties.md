@@ -37,7 +37,7 @@ permalink: "/faculties/"
             <h2 style="margin:0px;"><a href="/ziyaozhou/">Professor Ziyao Zhou</a></h2>
             <p>
 <a href="/ziyaozhou/" title="Prof.Z.Zhou"><img src="{{ site.urlimg }}zyzcube.png" class="alignleft" width="170" height="170"></a>
-<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>
+<!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>The recipient of the Youth Talent Program</h6>
 <h6>The recipient of 'Thousand Talent’ Program</h6>
 <h6>Email: ziyaozhou@xjtu.edu.cn</h6>
@@ -54,7 +54,7 @@ permalink: "/faculties/"
             <h2 style="margin:0px;"><a href="/zhongqianghu/">Professor Zhongqiang Hu</a></h2>
             <p>
 <a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}zqhcube.png" class="alignleft" width="170" height="170"></a>
-<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>
+<!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>The recipient of the Youth Talent Program</h6>
 <h6>Email: zhongqianghu@xjtu.edu.cn</h6>
                 <a href="/zhongqianghu/" title="Prof.Z.Hu"><strong>Read more&nbsp;></strong></a>
@@ -70,7 +70,7 @@ permalink: "/faculties/"
             <h2 style="margin:0px;"><a href="/binpeng/">lecturer Bin Peng</a></h2>
             <p>
 <a href="/binpeng/" title="Lecturer B.Peng"><img src="{{ site.urlimg }}bpcube.png" class="alignleft" width="170" height="170"></a>
-<h6>Lecturer of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>
+<!--<h6>Lecturer of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>Email: binpeng@xjtu.edu.cn</h6>
                 <a href="/binpeng/" title="Lecturer B.Peng"><strong>Read more&nbsp;></strong></a>
             </p>

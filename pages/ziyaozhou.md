@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Bio Sketch of Professor Ziyao Zhou"
-subheadline: "Electronic Enginnering Schoole at XJTU"
+title: "Professor Ziyao Zhou"
+#subheadline: "Electronic Enginnering Schoole at XJTU"
 #teaser: "Director of the laboratory for Integrated Multiferroic Materials and Devices"
 permalink: "/ziyaozhou/"
 header: no
