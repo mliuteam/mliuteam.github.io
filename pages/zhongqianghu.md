@@ -20,7 +20,7 @@ header: no
 
 
  <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img src="{{ site.urlimg }}hzqpho1.png" alt="" style="width:540px;height:300px;">
+<img src="{{ site.urlimg }}hzqpho1.png" alt="" style="width:540px;height:350px;">
 ## About
 
 ### Education   {#formats}
