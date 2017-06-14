@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Professor Zhongqiang Hu"
 #subheadline: "Electronic Enginnering Schoole at XJTU"
-teaser: "Professor of Electrical Engineering,Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research"
+teaser: "Professor of Electrical Engineering, Electronic Materials Research Laboratory, Key Laboratory of the Ministry of Education & International Center for Dielectric Research"
 permalink: "/zhongqianghu/"
 header: no
   # image_fullwidth: "group.jpg"
@@ -20,7 +20,7 @@ header: no
 
 
  <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img src="{{ site.urlimg }}hzqpho.png" alt="">
+<img src="{{ site.urlimg }}hzqpho1.png" alt="" style="width:540px;height:300px;">
 ## About
 
 ### Education   {#formats}
@@ -40,7 +40,7 @@ header: no
 </tr>
 </table >
 
-### Working Experiences
+### Work Experience
 <hr>
 <table style="border:none;background:none;">
 <tr>
@@ -56,7 +56,7 @@ header: no
 <tr style="border:none;background:none;">
     <th>Principal Investigator</th>
     <th>Winchester Technologies</th>
-    <th>1/2015 to 11/201</th>
+    <th>1/2015 to 11/2015</th>
 </tr>
 <tr style="border:none;background:none;">
     <th>Postdoctoral Research Associate</th>
@@ -70,7 +70,7 @@ header: no
 </tr>
 </table >
 
-### Research Experiences
+### Research Experience
 <hr>
 <table style="border:none;background:none;">
 <tr>

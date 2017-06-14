@@ -71,6 +71,7 @@ Current research interests include <strong>ferroelectric</strong>, <strong>piezo
 <p>Xi'an Jiaotong University </p>
 <p>28 W. Xianning Rd.</p>
 <p>Xi'an, Shannxi 710049, China </p>
+<p>Email: pengbin@xjtu.edu.cn</p>
 </dd>
 </dl>
 

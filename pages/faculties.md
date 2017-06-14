@@ -22,7 +22,7 @@ permalink: "/faculties/"
 <h6>Vice Dean of Graduate School at XJTU -- 西安交通大学研究生院副院长</h6>
 <h6>The recipient of "Thousand Talent Program"  of CPC   -- 中组部"青年千人"</h6>
  <h6>The recipient of "Hundred-Talent Program" -- 陕西省"百人计划"</h6>
-<h6>The recipient of "Young Top-notch Talent" of XJTU  -- 西安交通大"青年拔尖人才"</h6>
+<h6>The recipient of "Young Top-notch Talent" of XJTU  -- 西安交通大学"青年拔尖人才"</h6>
 <h6>Tengfei Distinguished Professor   -- 西安交通大学腾飞教授</h6>
 <a href="/mingliu/" title="Prof.M.Liu"><strong>Read more&nbsp;></strong></a>
             </p>
@@ -38,8 +38,8 @@ permalink: "/faculties/"
             <p>
 <a href="/ziyaozhou/" title="Prof.Z.Zhou"><img src="{{ site.urlimg }}zyzcube.png" class="alignleft" width="170" height="170"></a>
 <!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
-<h6>The recipient of "Young Top-notch Talent Program"</h6>
-<h6>The recipient of "Thousand Talent" Program</h6>
+<h6>The recipient of "Young Top-notch Talent Program" -- 西安交通大学"青年拔尖人才"</h6>
+<h6>The recipient of "Thousand Talent" Program-- 中组部"青年千人"</h6>
 <h6>Email: ziyaozhou@xjtu.edu.cn</h6>
                 <a href="/ziyaozhou/" title="Prof.Z.Zhou"><strong>Read more&nbsp;></strong></a>
             </p>
@@ -53,9 +53,9 @@ permalink: "/faculties/"
             </p>-->
             <h2 style="margin:0px;"><a href="/zhongqianghu/">Professor Zhongqiang Hu</a></h2>
             <p>
-<a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}zqhcube.png" class="alignleft" width="170" height="170"></a>
+<a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}hzqcube.png" class="alignleft" width="170" height="170"></a>
 <!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
-<h6>The recipient of "Young Top-notch Talent Program"</h6>
+<h6>The recipient of "Young Top-notch Talent Program" -- 西安交通大学"青年拔尖人才"</h6>
 <h6>Email: zhongqianghu@xjtu.edu.cn</h6>
                 <a href="/zhongqianghu/" title="Prof.Z.Hu"><strong>Read more&nbsp;></strong></a>
             </p>
@@ -71,7 +71,7 @@ permalink: "/faculties/"
             <p>
 <a href="/binpeng/" title="Lecturer B.Peng"><img src="{{ site.urlimg }}bpcube.png" class="alignleft" width="170" height="170"></a>
 <!--<h6>Lecturer of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
-<h6>Email: binpeng@xjtu.edu.cn</h6>
+<h6>Email: pengbin@xjtu.edu.cn</h6>
                 <a href="/binpeng/" title="Lecturer B.Peng"><strong>Read more&nbsp;></strong></a>
             </p>
             </div>
