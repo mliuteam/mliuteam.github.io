@@ -14,23 +14,22 @@ widget1:
   text: ' <h6>Vice Dean of Graduate School at XJTU</h6>西安交通大学研究生院副院长
    <h6>Thousand Talent Program </h6> 中组部"青年千人计划"
   <h6>Hundred-Talent Program</h6> 陕西省"百人计划"
-<h6>Young Top-notch Talent </h6>西安交通大学青年拔尖人才
-<h6>Tengfei Distinguished Professor </h6> 西安交通大学腾飞教授'
+  <h6>Member of Xi&apos;an Municipal Committee of CPPCC</h6>西安市政协委员'
 widget3:
   title: "Research Articles"
   url: '/publications/'
-  text: '<p>The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials, which are modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics and quantitative determination on ionic liquid gating control of interfacial magnetism.</p>'
+  text: '<p>The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials, which are modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics and quantitative ...</p>'
   image: amcover2.png
 widget2:
   title: "Research"
   url: '/research/'
   image: spinronics800.png
-  text: '<p>The Integrated Ferroic Laboratory designs and studies the dynamical behavior of magnetic, ferroelectric, and magneto-electric materials and micro/nano-structures. We are interested in new concepts for electric-field control of the electrical, magnetic, optical, and structural properties via strain, charge, ions and exchange bias, which will be used for next-generation ...</p>'
+  text: '<p>The Integrated Ferroic Laboratory designs and studies the dynamical behavior of magnetic, ferroelectric, and magneto-electric materials and micro/nano-structures. We are interested in new concepts for electric-field control of the electrical, magnetic, optical, and structural properties via strain, charge, ions...</p>'
 widget4:
   title: "Opportunities"
   url: '/opportunities/'
   image: teaching.jpg
-  text: '<p>Available Positions: We are always looking for top graduate students to join us for master and Ph.D. degrees. Applicants should have a B.S. or Masters in Physics, Electrical Engineering, Material Science, Chemicals, Mechanical Engineering or related field.The candidates should have strong motivation in exploring the unknown field in magnetics, multiferroics, and spintronics for ...</p>'
+  text: '<p>Available Positions: We are always looking for top graduate students to join us for master and Ph.D. degrees. Applicants should have a B.S. or Masters in Physics, Electrical Engineering, Material Science, Chemicals, Mechanical Engineering or related field.The candidates should have strong motivation in exploring the unknown ...</p>'
 #
 # Use the call for action to show a button on the frontpage
 #
