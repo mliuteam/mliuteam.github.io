@@ -20,7 +20,7 @@ header: no
 
 
  <div class="medium-8 medium-pull-4 columns" markdown="1">
-<img src="{{ site.urlimg }}hzqpho1.png" alt="" >
+<!--<img src="{{ site.urlimg }}hzqpho1.png" alt="" >-->
 ## About
 
 ### Education   {#formats}
@@ -48,11 +48,11 @@ header: no
     <th>Xi'an Jiaotong University</th>
     <th>2017 to present</th>
 </tr>
-<tr style="border:none;background:none;">
+<!--<tr style="border:none;background:none;">
     <th>Research Scientist</th>
     <th>Air Force Research Laboratory</th>
     <th>11/2015 to 2017</th>
-</tr>
+</tr>-->
 <tr style="border:none;background:none;">
     <th>Principal Investigator</th>
     <th>Winchester Technologies</th>
