@@ -19,11 +19,73 @@ permalink: "/publications/"
 <!--</div>  /.medium-4.columns -->
 <!--</div>-->
 
-
+<h3>2018</h3>
+<hr>
+<ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
+<li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control， Nature Communication (Accepted 2018) DOI. 10.1038/s41467-018-03356-z 
+</li>
+<li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (Accepted 2018)
+</li>
 
 <h3>2017</h3>
 <hr>
-<ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
+
+<li>S. Zhao, Z. Zhou*, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, M. Liu*, “Quantitative Determination on Ionic Liquid Gating Control of Interfacial Magnetism” Advanced Materials, 29, 1606478 (2017) (Inside cover)
+</li>
+<li>M. Zhu, Z. Zhou*, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren*, Z-G Ye, Y. Liu, M. Liu*, “Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics”, Advanced Functional Materials, 27, 1605598 (2017) (Inside cover)
+</li>
+<li>B. Peng, Z. Zhou*, T. Nan, G. Dong, M. Feng, Q. Yang, X. Wang, S. Zhao, D. Xian, Z.-D. Jiang, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, “Deterministic Switching of Perpendicular Magnetic Anisotropy by Voltage Control of Spin Reorientation Transition in (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Multiferroic Heterostructures”, ACS Nano, 11, 4337-4345 (2017)
+</li>
+<li>X. Xue, Z. Zhou*, G. Dong, M. Feng, Y. Zhang, S. Zhao, Z. Hu, W. Ren, Z.-G. Ye, Y. Liu, M. Liu*, “Discovery of Enhanced Magnetoelectric Coupling through Electric Field Control of Two-Magnon Scattering within Distorted Nanostructures”, ACS Nano, 11, 9286-9293 (2017)
+</li>
+<li>X. Xue, G. Dong, Z. Zhou*, D. Xian, Z. Hu, W. Ren, Z.-G. Ye, W. Chen, Z.-D. Jiang, M. Liu*, “Voltage Control of Two-Magnon Scattering and Induced Anomalous Magnetoelectric Coupling in Ni–Zn Ferrite”, ACS Applied Materials & Interfaces, 9, 43188-43196 (2017)
+</li>
+<li>G. Dong, Z. Zhou*, X. Xue, Y. Zhang, B. Peng, M. Guan, S. Zhao, Z. Hu, W. Ren, Z.-G. Ye, M. Liu*, “Ferroelectric Phase Transition Induced a Large FMR Tuning in Self-Assembled BaTiO3:Y3Fe5O12 Multiferroic Composites”, ACS Applied Materials & Interfaces, 9, 30733-30740 (2017)
+</li>
+<li>Q. Yang, T. Nan, Y. Zhang, Z. Zhou, B. Peng, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, “Voltage Control of Perpendicular Magnetic Anisotropy in Multiferroic (Co/Pt)3/Pb(Mg1/3Nb2/3)O3–PbTiO3 Heterostructures”, Physical Review Applied, 8, 044006 (2017)
+</li>
+<li>B. Peng, C. Zhang, Y. Yan, M. Liu*, “Voltage-Impulse-Induced Nonvolatile Control of Inductance in Tunable Magnetoelectric Inductors”, Physical Review Applied, 7, 044015 (2017)
+</li>
+<li>Q. Yang, Z. Zhou*, N. X. Sun, M. Liu*, “Perspectives of voltage control for magnetic exchange bias in multiferroic heterostructures”, Physics Letters A, 381, 1213-1222 (2017) (Prospective article)
+</li>
+<li>M. Zhu, Z. Zhou*, X. Xue, M. Guan, D. Xian, C. Wang, Z. Hu, Z.-D. Jiang, Z.-G. Ye, W. Ren*, M. Liu*, “Voltage control of spin wave resonance in La0.5Sr0.5MnO3/PMN-PT (001) multiferroic heterostructures”, Applied Physics Letters, 111, 102903 (2017)
+</li>
+<li>M. Zhu, T. Nan, B. Peng, Y. Zhang, Z. Zhou, X. Yang, W. Ren*, N. X. Sun, M. Liu*, “Epitaxial multiferroic heterostructures and applications”, IEEE Transactions on Magnetics, 53, 0800116 (2017)
+</li>
+<li>B. Peng, M. Feng, Q. Yang, S. Zhao, Y. Zhang, Z. Zhou, M. Liu*, “Ferroelastic Strain-Mediated Nonvolatile Tuning of Perpendicular Magnetic Anisotropy in (Co/Pt)3/(111) Pb(Mg1/3Nb2/3)O3-PbTiO3 Multiferroic Heterostructures”, IEEE Magnetics Letters, 8, 2507205 (2017)
+</li>
+<li>L. Zhang, M. Liu*, W. Ren*, Z. Zhou, G. Dong, Y. Zhang, B. Peng, X. Hao, C. Wang, Z.-D. Jiang, W. Jing, Z.-G. Ye, “ALD preparation of high-k HfO2 thin films with enhanced energy density and efficient electrostatic energy storage”, RSC Advances, 7, 8388-8393 (2017)
+</li>
+<li>Y. Zhang, M. Liu*, L. Zhang, Z. Zhou, B. Peng, C. Wang, Z-D Jiang, W. Ren*, Z.-G. Ye*, “Multiferroic Heterostructures of Fe3O4/PMN-PT prepared by Atomic Layer Deposition for Enhanced Interfacial Magnetoelectric Couplings” Applied Physics Letters, 110, 082902 (2017)
+</li>
+<li>Q. Yang, X. Wang, B. Peng, C. Li, Z. Zhou, Y. Yan, H. Zhou, Y. Zhang, S. Zhao, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, “Spin-orbital coupling induced four-fold anisotropy distribution during spin reorientation in ultrathin Co/Pt multilayers” Applied Physics Letters, 110, 022403 (2017)
+</li>
+<li>G. Zhao, Y. Zhang, L. Zhang, Z.-G. Ye, W. Ren, F. Xu, S. Wang, M. Liu, X. Zhang, “3D Conformal Modification of Electrospun Silk Nanofibers with Nanoscaled ZnO Deposition for Enhanced Photocatalytic Activity”, ACS Biomaterials Science & Engineering, 3, 2900-2906 (2017)
+</li>
+<li>B. Zhao, X. Cui, W. Ren, F. Xu, M. Liu, Z.-G. Ye, “A Controllable and Integrated Pump-enabled Microfluidic Chip and Its Application in Droplets Generating”, Scientific Reports, 7, 11319 (2017)
+</li>
+<li>W. Chen, L. Wang, W. Ren, G. Niu, J. Zhao, N. Zhang, M. Liu, Y. Tian, M. Dong, “Crystalline phase and electrical properties of lead-free piezoelectric KNN-based films with different orientations”, Journal of the American Ceramic Society, 100, 2965-2971 (2017)
+</li>
+<li>Y. Liu, W. Ren, P. Shi, D. Liu, M. Liu, W. Jing, B. Tian, Z.-G. Ye, Z.-D. Jiang, “Preparation and thermal volatility characteristics of In2O3/ITO thin film thermocouple by RF magnetron sputtering”, AIP Advances, 7, 115025 (2017)
+</li>
+<li>J. Zhao, W. Ren, G. Niu, N. Zhang, G. Dong, L. Wang, M. Liu, P. Shi, Z.-G. Ye, “Recoverable Self-Polarization in Lead-Free Bismuth Sodium Titanate Piezoelectric Thin Films”, ACS Applied Materials & Interfaces, 9, 28716–28725 (2017)
+</li>
+<li>J. Zhang, P. Shi, M. Zhu, M. Liu, W. Ren, Z.-G. Ye, “Structural and magnetic properties of La0.7Sr0.3MnO3 ferromagnetic thin film grown on PMN-PT by sol–gel method”, Journal of Advanced Dielectrics, 7, 1750029 (2017)
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
 <li>S. Zhao, Z Zhou*, B. Peng, M. Zhu, M. Feng, Q. Yang, Y. Yan, W. Ren, Z-G Ye, Y. Liu, M. Liu*, “Quantitative Determination on Ionic Liquid Gating Control of Interfacial Magnetism”, Advanced Materials, 29, 1606478 (2017) (Inside cover)</li>
 <li>M. Zhu, Z. Zhou*, B. Peng, S. Zhao, Y. Zhang, G. Niu, W. Ren*, Z-G Ye, Y. Liu, M. Liu*, “Modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics”, Advanced Functional Materials 27, 1605598 (2017) (Inside cover)</li>
 <li>X. Xue, Z. Zhou,* G. Dong,  M. Feng, Y. Zhang, S. Zhao, Z. Hu, W. Ren, Z-G Ye, Y. Liu,  M. Liu*, “Discovery of Enhanced Magnetoelectric Coupling through Electric Field Control of Two-Magnon Scattering within Distorted Nanostructures”, ACS Nano DOI: 10.1021/acsnano.7b04653 (2017)</li>
