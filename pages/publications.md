@@ -22,7 +22,7 @@ permalink: "/publications/"
 <h3>2018</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
-<li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control， Nature Communication (Accepted 2018) DOI. 10.1038/s41467-018-03356-z 
+<li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication (2018) DOI. 10.1038/s41467-018-03356-z 
 </li>
 <li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (Accepted 2018)
 </li>
