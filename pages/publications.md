@@ -22,9 +22,12 @@ permalink: "/publications/"
 <h3>2018</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
+<li>Qu Yang, Ziyao Zhou*, Liqian Wang, Hongjia Zhang, Yuxin Cheng, Zhongqiang Hu,
+Bin Peng, and Ming Liu*, Lonic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials (Acepted 2018 )</li>
+<li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (Acepted 2018 )</li>
 <li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication (2018) DOI. 10.1038/s41467-018-03356-z 
 </li>
-<li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (Accepted 2018)
+<li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (2018)
 </li>
 
 <h3>2017</h3>
