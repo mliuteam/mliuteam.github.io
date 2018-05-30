@@ -16,7 +16,7 @@ show_meta: false
 <p>
 	Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials </p>
  
- <a href="">Full text</a>
+ <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201801639">Full text</a>
 </div>
 <div style="display: inline-block;">
 <h2>Abstract</h2>
