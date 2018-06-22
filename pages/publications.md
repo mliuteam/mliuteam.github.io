@@ -22,6 +22,9 @@ permalink: "/publications/"
 <h3>2018</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
+<li>W. Hou, Z. Zhou, X. Xue, M. Guan, Z. Hu, M. Liu,Voltage Control of Two-Magnon Scattering in Multiferroic Layers for Tunable Magnetoelectric Devices,IEEE transaction on magnetics.(Acepted 2018)</li>
+<li>Chenying Wang, Wei Su, Zhongqiang Hu*, Jiangtao Pu, Mengmeng Guan, Bin Peng, Lei Li, Wei Ren, Ziyao Zhou, Zhuangde Jiang*, Ming Liu*, Highly Sensitive Magnetic Sensor Based on Anisotropic Magnetoresistance Effect, IEEE (Acepted 2018)</li>
+<li>Xinger Zhao, Zhongqiang Hu*, Qu Yang, Bin Peng, Ziyao Zhou*, Ming Liu, Voltage Control of Ferromagnetic Resonance and Spin Waves, Chinese Physics B (Accepted 2018)</li>
 <li>Qu Yang, Ziyao Zhou*, Liqian Wang, Hongjia Zhang, Yuxin Cheng, Zhongqiang Hu,
 Bin Peng, and Ming Liu*, Lonic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials (Acepted 2018 )</li>
 <li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (Acepted 2018 )</li>
