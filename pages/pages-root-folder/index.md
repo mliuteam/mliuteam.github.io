@@ -66,6 +66,6 @@ homepage: true
 
 <div class="row t30 b20 homepage">
 <div class="small-12 columns">
-<img src="{{ site.urlimg }}chatu.png"">
+<img src="{{ site.urlimg }}chatu.png">
 </div>
 </div>
