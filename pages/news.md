@@ -10,7 +10,11 @@ permalink: "/news/"
 ---
 <hr>
 <ul>
+
+<li>The article of doctoral student Qu Yang was accepted in the Advanced Materials (2018-03-19)</li>
 <li>The article of doctoral student Qu Yang was published in the Nature Communication (2018-03-07)</li>
+<li>The article of lecturer   Guohua Dong was published in the ACS Nano (2018-03-02)</li>
+<li>The article of lecturer Xu Xue was published in the ACS Nano (2017-08-18)</li>
 <li>The article of lecturer Bin Peng was published in the ACS Nano (2017-04-12)</li>
 <li>The article of lecturer Bin Peng about Nonvolatile control was accepted by Physical review smartfactory™ (2017-03-11)</li>
 <li>Advanced Materials published the article of master student Shishun Zhao about electric field control Interface magnetism online (2017-03-05)</li>
