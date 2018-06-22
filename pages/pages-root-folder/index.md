@@ -64,8 +64,8 @@ homepage: true
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
-<!--<div class="row t30 b20 homepage">
+<div class="row t30 b20 homepage">
 <div class="small-12 columns">
 <img src="{{ site.urlimg }}chatu.png"">
 </div>
-</div>-->
+</div>
