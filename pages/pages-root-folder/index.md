@@ -55,6 +55,7 @@ permalink: /index.html
 #
 
 homepage: true
+mediaplayer: true
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

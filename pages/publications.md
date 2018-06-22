@@ -22,6 +22,7 @@ permalink: "/publications/"
 <h3>2018</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
+
 <li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (2018)</li>
 <li>Qu Yang, Ziyao Zhou*, Liqian Wang, Hongjia Zhang, Yuxin Cheng, Zhongqiang Hu,
 Bin Peng, and Ming Liu*, Lonic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials (2018)</li>
