@@ -57,7 +57,7 @@ permalink: /index.html
 homepage: true
 mediaplayer: true
 ---
-<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}chatu.png" width="" height="182" alt=""></a>
+<!-- <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}chatu.png" width="" height="182" alt=""></a>
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
@@ -65,7 +65,7 @@ mediaplayer: true
     <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=aZHABDXSsWc" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->
 
 <!--<div class="row t30 b20 homepage">
 <div class="small-12 columns">
