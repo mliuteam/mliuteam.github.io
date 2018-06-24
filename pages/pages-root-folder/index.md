@@ -19,7 +19,7 @@ widget3:
   title: "Research Articles"
   url: '/publications/'
   text: '<p>The articles of Ph.D student Mingmin Zhu and graduate student Shishun Zhao were elected as the cover articles on the Advanced Functional Materials and Advanced Materials, which are modulation of spin dynamics via voltage control of spin-lattice coupling in multiferroics and quantitative ...</p>'
-  image: amcover2.png
+  video: '<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Research"
   url: '/research/'
@@ -57,13 +57,13 @@ permalink: /index.html
 homepage: true
 mediaplayer: true
 ---
-<a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
-<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
+<!-- <a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
+<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a> -->
 
-<div style="display: inline-block;">
+<!-- <div style="display: inline-block;"> -->
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="{{ site.urlimg }}quyang-amvedio.mp4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=aZHABDXSsWc" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div> 
