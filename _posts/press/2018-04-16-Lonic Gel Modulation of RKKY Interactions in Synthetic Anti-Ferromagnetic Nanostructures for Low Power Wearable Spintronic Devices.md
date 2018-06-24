@@ -19,8 +19,9 @@ Bin Peng, and Ming Liu*, Lonic Gel Modulation of RKKY Interactions in Synthetic 
  
  <a href="">Full text</a>
 </div>
-<a href="{{ site.urlimg }}quyang-amvedio.mp4"><p>Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</p></a>
+<a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
 <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
+
 <div style="display: inline-block;">
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
