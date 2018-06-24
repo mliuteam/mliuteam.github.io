@@ -29,7 +29,7 @@ permalink: "/publications/"
 <li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu, Ionic Modulation of Interfacial Magnetism in Heavy Metal/Magnetic Insulator Bilayer for Voltage Tunable Spintronic Devices,Advanced Materials .(Accept 2018)</li>
 <li>Shishun Zhao, Ziyao Zhou* , Chunlei Li, Bin Peng, Zhongqiang Hu , and Ming Liu*，Low-Voltage Control of (Co/Pt)x Perpendicular Magnetic Anisotropy Heterostructure for Flexible Spintronics，ACS Nano, DOI: 10.1021/acsnano.8b03097 (2018)</li>
 
-<li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (2018)
+<li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano,12，3751-3758 (2018)
 </li>
 <li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication, 9, 991 (2018)
 </li>
@@ -41,7 +41,7 @@ IEEE Magnetics Letters , 9, 2501105 (2018)</li>
 <li>W. Hou, Z. Zhou, X. Xue, M. Guan, Z. Hu, M. Liu,Voltage Control of Two-Magnon Scattering in Multiferroic Layers for Tunable Magnetoelectric Devices,IEEE transaction on magnetics.(Acepted 2018)</li>
 <li>Chenying Wang, Wei Su, Zhongqiang Hu*, Jiangtao Pu, Mengmeng Guan, Bin Peng, Lei Li, Wei Ren, Ziyao Zhou, Zhuangde Jiang*, Ming Liu*, Highly Sensitive Magnetic Sensor Based on Anisotropic Magnetoresistance Effect, IEEE transaction on magnetics.(Acepted 2018)</li>
 <li>Xinger Zhao, Zhongqiang Hu*, Qu Yang, Bin Peng, Ziyao Zhou*, Ming Liu, Voltage Control of Ferromagnetic Resonance and Spin Waves, Chinese Physics B (Accepted 2018)</li>
-<li>Bin Yu，Zhongqiang Hu+,Yuxin Cheng,Bin Peng, Ziyao Zhou, Ming Liu*, Progress in the research of multi-ferromagnetic electrical appliances, Acta Physica Sinic.(Acepted 2018)</li>
+<li>俞斌，胡忠强†，程宇心，彭斌，周子尧 ，刘明‡，多铁性磁电器件研究进展，物理学报（已接收2018）</li>
 
 <h3>2017</h3>
 <hr>

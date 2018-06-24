@@ -14,7 +14,7 @@ show_meta: false
 <!--<div class="row">-->
 <div >
 <p>
-	Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication (2018) DOI. 10.1038/s41467-018-03356-z</p>
+	Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication，9, 991 (2018)</p>
  
  <a href="https://www.nature.com/articles/s41467-018-03356-z">Full text</a>
 </div>

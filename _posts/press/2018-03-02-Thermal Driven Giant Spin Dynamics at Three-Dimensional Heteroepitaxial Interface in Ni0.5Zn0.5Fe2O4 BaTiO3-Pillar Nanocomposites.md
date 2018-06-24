@@ -14,7 +14,7 @@ show_meta: false
 <!--<div class="row">-->
 <div >
 <p>
-G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano, (2018) </p>
+G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano,12，3751-3758 (2018) </p>
  
  <a href="https://pubs.acs.org/doi/10.1021/acsnano.8b00962">Full text</a>
 </div>
