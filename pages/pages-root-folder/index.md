@@ -57,7 +57,7 @@ permalink: /index.html
 homepage: true
 mediaplayer: true
 ---
-<a href="#" data-reveal-id="videoModal"><h2>Vedio Abstract: </h2><h3>Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</h3></a>
+<a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
 <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
 
 <div style="display: inline-block;">
