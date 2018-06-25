@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  "Advanced Materials"
-title:  "Lonic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices"
+title:  "Ionic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices"
 teaser: " Author Qu Yang"
 categories:
     - press
@@ -15,7 +15,7 @@ show_meta: false
 <div >
 <p>
 Qu Yang, Ziyao Zhou*, Liqian Wang, Hongjia Zhang, Yuxin Cheng, Zhongqiang Hu,
-Bin Peng, and Ming Liu*, Lonic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials </p>
+Bin Peng, and Ming Liu*, Ionic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials </p>
  
  <a href="">Full text</a>
 </div>
