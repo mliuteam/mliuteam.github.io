@@ -26,21 +26,21 @@ permalink: "/publications/"
 <li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (2018)</li>
 <li>Q. Yang, Z. Zhou*, L. Wang, H. Zhang, Y. Cheng, Z. Hu, B. Peng, and M. Liu*, Ionic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials, 30, 1800449, (2018) </li>
 
-<li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu, Ionic Modulation of Interfacial Magnetism in Heavy Metal/Magnetic Insulator Bilayer for Voltage Tunable Spintronic Devices,Advanced Materials .(Accept 2018)</li>
+<li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu*, Ionic Modulation of Interfacial Magnetism in Heavy Metal/Magnetic Insulator Bilayer for Voltage Tunable Spintronic Devices,Advanced Materials .(Accept 2018)</li>
 <li>Shishun Zhao, Ziyao Zhou* , Chunlei Li, Bin Peng, Zhongqiang Hu , and Ming Liu*，Low-Voltage Control of (Co/Pt)x Perpendicular Magnetic Anisotropy Heterostructure for Flexible Spintronics，ACS Nano, DOI: 10.1021/acsnano.8b03097 (2018)</li>
 
 <li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano,12，3751-3758 (2018)
 </li>
 <li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication, 9, 991 (2018)
 </li>
-<li>M. Zhu, Z. Hu, C. Li, X. Xue, G. Yang, W. Ren, Z.-G. Ye, Z. Zhou, M. Liu, “Voltage-Tuned
+<li>M. Zhu, Z. Hu, C. Li, X. Xue, G. Yang, W. Ren, Z.-G. Ye, Z. Zhou, M. Liu*, “Voltage-Tuned
 Transport Properties and Ferromagnetic Resonance in Lanthanum Strontium
 Manganite/Lead Magnesium Niobate-Lead Titanate Multiferroic Heterostructures”,
 IEEE Magnetics Letters , 9, 2501105 (2018)</li>
-<li>Yijun Zhang,  Ming Liu, Bin Peng, Ziyao Zhou, Chenying Wang, Weixuan Jing, Zhuang-De Jiang, Wei Ren, and  Zuo-Guang Ye,Temperature induced interface and optical properties of the multi-layer nanotube network,Journal of Applied Physics 123, 224102. (2018)</li>
-<li>W. Hou, Z. Zhou, X. Xue, M. Guan, Z. Hu, M. Liu,Voltage Control of Two-Magnon Scattering in Multiferroic Layers for Tunable Magnetoelectric Devices,IEEE transaction on magnetics.(Acepted 2018)</li>
+<li>Yijun Zhang,  Ming Liu*, Bin Peng, Ziyao Zhou, Chenying Wang, Weixuan Jing, Zhuang-De Jiang, Wei Ren, and  Zuo-Guang Ye,Temperature induced interface and optical properties of the multi-layer nanotube network,Journal of Applied Physics 123, 224102. (2018)</li>
+<li>W. Hou, Z. Zhou, X. Xue, M. Guan, Z. Hu, M. Liu*,Voltage Control of Two-Magnon Scattering in Multiferroic Layers for Tunable Magnetoelectric Devices,IEEE transaction on magnetics.(Acepted 2018)</li>
 <li>Chenying Wang, Wei Su, Zhongqiang Hu*, Jiangtao Pu, Mengmeng Guan, Bin Peng, Lei Li, Wei Ren, Ziyao Zhou, Zhuangde Jiang*, Ming Liu*, Highly Sensitive Magnetic Sensor Based on Anisotropic Magnetoresistance Effect, IEEE transaction on magnetics.(Acepted 2018)</li>
-<li>Xinger Zhao, Zhongqiang Hu*, Qu Yang, Bin Peng, Ziyao Zhou*, Ming Liu, Voltage Control of Ferromagnetic Resonance and Spin Waves, Chinese Physics B (Accepted 2018)</li>
+<li>Xinger Zhao, Zhongqiang Hu*, Qu Yang, Bin Peng, Ziyao Zhou*, Ming Liu*, Voltage Control of Ferromagnetic Resonance and Spin Waves, Chinese Physics B (Accepted 2018)</li>
 <li>俞斌，胡忠强†，程宇心，彭斌，周子尧 ，刘明‡，多铁性磁电器件研究进展，物理学报（已接收2018）</li>
 
 <h3>2017</h3>
@@ -76,17 +76,17 @@ IEEE Magnetics Letters , 9, 2501105 (2018)</li>
 </li>
 <li>Q. Yang, X. Wang, B. Peng, C. Li, Z. Zhou, Y. Yan, H. Zhou, Y. Zhang, S. Zhao, W. Ren, Z.-G. Ye, N. X. Sun, M. Liu*, “Spin-orbital coupling induced four-fold anisotropy distribution during spin reorientation in ultrathin Co/Pt multilayers” Applied Physics Letters, 110, 022403 (2017)
 </li>
-<li>G. Zhao, Y. Zhang, L. Zhang, Z.-G. Ye, W. Ren, F. Xu, S. Wang, M. Liu, X. Zhang, “3D Conformal Modification of Electrospun Silk Nanofibers with Nanoscaled ZnO Deposition for Enhanced Photocatalytic Activity”, ACS Biomaterials Science & Engineering, 3, 2900-2906 (2017)
+<li>G. Zhao, Y. Zhang, L. Zhang, Z.-G. Ye, W. Ren, F. Xu, S. Wang, M. Liu*, X. Zhang, “3D Conformal Modification of Electrospun Silk Nanofibers with Nanoscaled ZnO Deposition for Enhanced Photocatalytic Activity”, ACS Biomaterials Science & Engineering, 3, 2900-2906 (2017)
 </li>
-<li>B. Zhao, X. Cui, W. Ren, F. Xu, M. Liu, Z.-G. Ye, “A Controllable and Integrated Pump-enabled Microfluidic Chip and Its Application in Droplets Generating”, Scientific Reports, 7, 11319 (2017)
+<li>B. Zhao, X. Cui, W. Ren, F. Xu, M. Liu*, Z.-G. Ye, “A Controllable and Integrated Pump-enabled Microfluidic Chip and Its Application in Droplets Generating”, Scientific Reports, 7, 11319 (2017)
 </li>
-<li>W. Chen, L. Wang, W. Ren, G. Niu, J. Zhao, N. Zhang, M. Liu, Y. Tian, M. Dong, “Crystalline phase and electrical properties of lead-free piezoelectric KNN-based films with different orientations”, Journal of the American Ceramic Society, 100, 2965-2971 (2017)
+<li>W. Chen, L. Wang, W. Ren, G. Niu, J. Zhao, N. Zhang, M. Liu*, Y. Tian, M. Dong, “Crystalline phase and electrical properties of lead-free piezoelectric KNN-based films with different orientations”, Journal of the American Ceramic Society, 100, 2965-2971 (2017)
 </li>
-<li>Y. Liu, W. Ren, P. Shi, D. Liu, M. Liu, W. Jing, B. Tian, Z.-G. Ye, Z.-D. Jiang, “Preparation and thermal volatility characteristics of In2O3/ITO thin film thermocouple by RF magnetron sputtering”, AIP Advances, 7, 115025 (2017)
+<li>Y. Liu, W. Ren, P. Shi, D. Liu, M. Liu*, W. Jing, B. Tian, Z.-G. Ye, Z.-D. Jiang, “Preparation and thermal volatility characteristics of In2O3/ITO thin film thermocouple by RF magnetron sputtering”, AIP Advances, 7, 115025 (2017)
 </li>
-<li>J. Zhao, W. Ren, G. Niu, N. Zhang, G. Dong, L. Wang, M. Liu, P. Shi, Z.-G. Ye, “Recoverable Self-Polarization in Lead-Free Bismuth Sodium Titanate Piezoelectric Thin Films”, ACS Applied Materials & Interfaces, 9, 28716–28725 (2017)
+<li>J. Zhao, W. Ren, G. Niu, N. Zhang, G. Dong, L. Wang, M. Liu*, P. Shi, Z.-G. Ye, “Recoverable Self-Polarization in Lead-Free Bismuth Sodium Titanate Piezoelectric Thin Films”, ACS Applied Materials & Interfaces, 9, 28716–28725 (2017)
 </li>
-<li>J. Zhang, P. Shi, M. Zhu, M. Liu, W. Ren, Z.-G. Ye, “Structural and magnetic properties of La0.7Sr0.3MnO3 ferromagnetic thin film grown on PMN-PT by sol–gel method”, Journal of Advanced Dielectrics, 7, 1750029 (2017)
+<li>J. Zhang, P. Shi, M. Zhu, M. Liu*, W. Ren, Z.-G. Ye, “Structural and magnetic properties of La0.7Sr0.3MnO3 ferromagnetic thin film grown on PMN-PT by sol–gel method”, Journal of Advanced Dielectrics, 7, 1750029 (2017)
 </li>
 
 
