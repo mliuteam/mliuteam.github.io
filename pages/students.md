@@ -175,8 +175,8 @@ permalink: "/students/"
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Novel magnetic, ferroelectric and multiferroic materials.</p>
     </div>
-     </div>
-    <div class="row t30">
+</div>
+<div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yfmm.png" alt="" width="280">
         <p class="subheadline">
@@ -189,6 +189,5 @@ permalink: "/students/"
         <p class="subheadline">
              <span class="subheader">Yao Zhang</span>
         </p>
-        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
