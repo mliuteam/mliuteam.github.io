@@ -141,13 +141,7 @@ permalink: "/students/"
         </p>
         <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}yyy.png" alt="" width="280">
-         <p class="subheadline">
-             <span class="subheader">Yuan Yan</span>
-        </p>
-        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
-    </div><!-- /.medium-4.columns -->
+
 </div>
 
 
@@ -157,21 +151,21 @@ permalink: "/students/"
 <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yzcx.png" alt="" width="280">
          <p class="subheadline">
-             <span class="subheader">Chenxi Zhang(#2017)</span>
+             <span class="subheader">Chenxi Zhang (#2017)</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Tunable inductors and filters based on multiferroic composites.</p>
     </div><!-- /.medium-4.columns -->
 <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yzmm.png" alt="" width="280">
          <p class="subheadline">
-             <span class="subheader">Mingmin Zhu</span>
+             <span class="subheader">Mingmin Zhu (#2018)</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Spin dynamics in the multiferroic heterostructures;Spin wave based devices;The fabrication and study of PMA films</p>
     </div>
 <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yxx.png" alt="" width="280">
          <p class="subheadline">
-             <span class="subheader">Xu Xue</span>
+             <span class="subheader">Xu Xue (#2018)</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Novel magnetic, ferroelectric and multiferroic materials.</p>
     </div>
@@ -180,14 +174,21 @@ permalink: "/students/"
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yfmm.png" alt="" width="280">
         <p class="subheadline">
-             <span class="subheader">Mengmeng Feng</span>
+             <span class="subheader">Mengmeng Feng (#2018)</span>
         </p>
         <p style="color:#0755a0"><em>Research Interests:</em> Voltage control of perpendicular magnetic anisotropy in multiferroic heterostructure.</p>
     </div>
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}yzy.png" alt="" width="280">
         <p class="subheadline">
-             <span class="subheader">Yao Zhang</span>
+             <span class="subheader">Yao Zhang (#2018)</span>
         </p>
+    </div><!-- /.medium-4.columns -->
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}yyy.png" alt="" width="280">
+         <p class="subheadline">
+             <span class="subheader">Yuan Yan (#2018)</span>
+        </p>
+        <!--<p style="color:#0755a0"><em>Research Interests:</em></p>-->
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
