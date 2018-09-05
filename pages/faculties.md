@@ -53,7 +53,8 @@ permalink: "/faculties/"
             </p>-->
             <h2 style="margin:0px;"><a href="/zhongqianghu/">Professor Zhongqiang Hu</a></h2>
             <p>
-<a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}hzqcube.png" class="alignleft" width="170" height="170"></a>
+            
+<a href="/zhongqianghu/" title="Prof.Z.Hu"><img src="{{ site.urlimg }}bpcube.png" class="alignleft" width="170" height="170"></a>
 <!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>The recipient of "Young Top-notch Talent Program" -- 西安交通大学"青年拔尖人才"</h6>
 <h6>Email: zhongqianghu@xjtu.edu.cn</h6>
