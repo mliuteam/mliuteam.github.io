@@ -22,11 +22,13 @@ permalink: "/publications/"
 <h3>2018</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
-
+<li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu*,Ionic Modulation of the Interfacial Magnetism in a Bilayer System Comprising a Heavy Metal and a Magnetic Insulator for Voltage‐Tunable Spintronic Devices, Advanced Materials,  DOI: 10.1002/adma.201802902 (2018)</li>
 <li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (2018)</li>
+
 <li>Q. Yang, Z. Zhou*, L. Wang, H. Zhang, Y. Cheng, Z. Hu, B. Peng, and M. Liu*, Ionic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials, 30, 1800449, (2018) </li>
 
-<li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu*, Ionic Modulation of Interfacial Magnetism in Heavy Metal/Magnetic Insulator Bilayer for Voltage Tunable Spintronic Devices,Advanced Materials .(Accept 2018)</li>
+<li>Le Zhang, Weixiao Hou, Guohua Dong, Ziyao Zhou, Shishun Zhao*, Zhongqiang Hu, Wei Ren*, Mingfeng Chen, Ce-Wen Nan, Jing Ma, Hua Zhou, Wei Chen, Zuo-Guang Ye, Zhuang-De Jiang, Ming Liu*, Low Voltage Induced Reversible Magnetoelectric Coupling in Fe3O4 Thin Films for Voltage Tunable Spintronic Devices, Materials Horizons, 5 991-999 (2018)</li>
+
 <li>Shishun Zhao, Ziyao Zhou* , Chunlei Li, Bin Peng, Zhongqiang Hu , and Ming Liu*，Low-Voltage Control of (Co/Pt)x Perpendicular Magnetic Anisotropy Heterostructure for Flexible Spintronics，ACS Nano, DOI: 10.1021/acsnano.8b03097 (2018)</li>
 
 <li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano,12，3751-3758 (2018)

@@ -20,7 +20,7 @@ header: no
 
 
  <div class="medium-8 medium-pull-4 columns" markdown="1">
-<!--<img src="{{ site.urlimg }}hzqpho1.png" alt="" >-->
+<img src="{{ site.urlimg }}hzqpho1.png" alt="" >
 ## About
 
 ### Education   {#formats}
@@ -120,19 +120,24 @@ header: no
 ### Book Chapters
 <hr>
 <ol>
-<li><h5><em>Z. Hu</em>, and G. J. Brown, “Towards Multiferroic Memories”, in Integrated Multiferroic Heterostructures and Applications, to be published by Wiley (2017).</h5></li>
-<li><h5><em>Z. Hu</em>, and N. X. Sun, “Ferrite-based Multiferroic Materials and Devices”, in Ferrite Materials and Their Applications, to be published by Elsevier (2017).</h5></li>
+<li><h5><em>Z. Hu</em>, and G. J. Brown, “Towards Multiferroic Memories”, in Integrated Multiferroic Heterostructures and Applications, to be published by Wiley (2019).</h5></li>
+<li><h5><em>Z. Hu</em>, and N. X. Sun, “Ferrite-based Multiferroic Materials and Devices”, in Ferrite Materials and Their Applications, to be published by Elsevier (2019).</h5></li>
 <li><h5><em>Z. Hu</em>, and N. X. Sun, “Epitaxial Multiferroic Heterostructures”, in Composite Magnetoelectrics: Materials, Structures, and Applications, edited by G. Srinivasan, S. Priya, and N. Sun, published by Elsevier (2015).</h5></li>
 </ol>
 
 ### Journal Articles
 <hr>
 <ol>
-<li><h5> Z. Hu, et al, Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures”, Scientific Reports, 6, 32408 (2016).</h5></li>
-<li><h5>Z. Hu, B. Ma, M. Li, R.E. Koritala, and U. Balachandran, Ferroelectric PLZT thick films grown by poly (1-vinylpyrrolidone-co-vinyl acetate)(PVP/VA)-modified sol–gel process, Materials Research Bulletin, 75, 167-171 (2016).</h5></li>
-<li><h5>Z. Wang, X. Wang, M. Li, Y. Gao, Z. Hu, et al, “Highly Sensitive Flexible Magnetic Sensor Based on Anisotropic Magnetoresistance Effect”, Advanced Materials, 28 (42), 9370 (2016). </h5></li>
+<li><h5>Xinger Zhao, Zhongqiang Hu*, Qu Yang, Bin Peng, Ziyao Zhou*, and Ming Liu, Voltage Control of Ferromagnetic Resonance and Spin Waves, Chinese Physics B, 27, 097505 (2018) (Invited Review) </h5></li>
+<li><h5>俞斌，胡忠强*，程宇心，彭斌，周子尧，刘明*，多铁性磁电器件研究进展，物理学报，Acta Physica Sinica, 67, 157507 (2018) (Invited Review)</h5></li>
+<li><h5>Chenying Wang, # Hongjia Zhang,# Chunlei Li, Yun He, Le Zhang, Xinger Zhao, Qu Yang, Dan Xian, Qi Mao, Bin Peng, Ziyao Zhou, Wanzhao Cui,* and Zhongqiang Hu*, Voltage Control of Magnetic Anisotropy through Ionic Gel Gating for Flexible Spintronics, ACS Appl. Mater. Interfaces, DOI: 10.1021/acsami.8b07469.</h5></li>
+<li><h5>Chenying Wang, Wei Su, Zhongqiang Hu*, Jiangtao Pu, Mengmeng Guan, Bin Peng, Lei Li, Wei Ren, Ziyao Zhou, Zhuangde Jiang*, Ming Liu*, Highly Sensitive Magnetic Sensor Based on Anisotropic Magnetoresistance Effect, IEEE Transactions on Magnetics. (Acepted 2018)</h5></li>
+<li><h5>Chenying Wang, Jiangtao Pu, Zhongqiang Hu*, Wei Su, Mengmeng Guan, Bin Peng, Ziyao Zhou, Zhiguang Wang, Zhuangde Jiang, Ming Liu*, Electric Field Tuning of Anisotropic Magnetoresistance in NiCo/PMN-PT Multiferroic Heterostructure, IEEE Transactions on Magnetics. (Acepted 2018)</h5></li>
+<li><h5>M. Zhu, Z. Hu*, C. Li, X. Xue, G. Yang, W. Ren*, Z.-G. Ye, Z. Zhou, M. Liu*, “Voltage-Tuned Transport Properties and Ferromagnetic Resonance in Lanthanum Strontium Manganite/Lead Magnesium Niobate-Lead Titanate Multiferroic Heterostructures, IEEE Magnetics Letters, 9, 2501105 (2018)</h5></li>
+<li><h5>Z. Hu, et al, Non-Volatile Ferroelectric Switching of Ferromagnetic Resonance in NiFe/PLZT Multiferroic Thin Film Heterostructures”, Scientific Reports, 6, 32408 (2016).</h5></li>
+<li><h5>Z. Wang, X. Wang, M. Li, Y. Gao, Z. Hu, et al, “Highly Sensitive Flexible Magnetic Sensor Based on Anisotropic Magnetoresistance Effect”, Advanced Materials, 28 (42), 9370 (2016).</h5></li>
 <li><h5>Z. Hu, T. Nan, X. Wang, M. Staruch, Y. Gao, P. Finkel, and N.X. Sun, “Voltage control of magnetism in FeGaB/PIN-PMN-PT multiferroic heterostructures for high-power and high-temperature applications”, Applied Physics Letters, 106, 022901 (2015).</h5></li>
-<li><h5>Z. Hu, X. Chen, T. Nan, X. Wang, Y. Gao, Z. Wang, G. Srinivasan, N. Sun, “Voltage control of magnetism in laminated LiFe5O8/PMN-PT multiferroic composites, IEEE Magnetics Conference (INTERMAG) (2015).</h5> </li>
+
 <li><h5>Z. Hu, B. Ma, R. Koritala, and U. Balachandran, “Temperature-dependent energy storage properties of antiferroelectric Pb0.96La0.04Zr0.98Ti0.02O3 thin films”, Applied Physics Letters, 104, 263902 (2014). </h5></li>
 <li><h5>Z. Hu, B. Ma, S. Liu, M. Narayanan, and U. Balachandran, “Ceramic dielectric film capacitors fabricated on aluminum foils by chemical solution deposition”, Materials Research Bulletin, 52, 189-193 (2014).</h5></li>
 <li><h5>Z. Hu, B. Ma, S. Liu, M. Narayanan, and U. Balachandran, “Relaxor behavior and energy storage performance of ferroelectric PLZT thin films with different Zr/Ti ratios”, Ceramics International, 40, 557-562 (2014). </h5></li>
