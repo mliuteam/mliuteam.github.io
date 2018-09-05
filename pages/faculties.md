@@ -28,7 +28,7 @@ permalink: "/faculties/"
             </p>
 	</div>
     </div><!-- /.medium-7.columns -->
-    <div class="row">
+<div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
             <!--<p class="subheadline">
@@ -58,11 +58,11 @@ permalink: "/faculties/"
 <!--<h6>Professor of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>The recipient of "Young Top-notch Talent Program" -- 西安交通大学"青年拔尖人才"</h6>
 <h6>Email: zhongqianghu@xjtu.edu.cn</h6>
-                <a href="/zhongqianghu/" title="Prof.Z.Hu"><strong>Read more&nbsp;></strong></a>
+<a href="/zhongqianghu/" title="Prof.Z.Hu"><strong>Read more&nbsp;></strong></a>
             </p>
 	</div>
     </div><!-- /.medium-7.columns -->
-    <div class="row">
+<div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
             <!--<p class="subheadline">
@@ -73,7 +73,7 @@ permalink: "/faculties/"
 <a href="/binpeng/" title="Lecturer B.Peng"><img src="{{ site.urlimg }}bpcube.png" class="alignleft" width="170" height="170"></a>
 <!--<h6>Lecturer of Elelcronic Enginnering School at Xi'an Jiaotong University</h6>-->
 <h6>Email: pengbin@xjtu.edu.cn</h6>
-                <a href="/binpeng/" title="Lecturer B.Peng"><strong>Read more&nbsp;></strong></a>
+<a href="/binpeng/" title="Lecturer B.Peng"><strong>Read more&nbsp;></strong></a>
             </p>
             </div>
 	</div>
