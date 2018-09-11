@@ -26,7 +26,6 @@ permalink: "/publications/"
 
 <li>M. Guan, L. Wang, S. Zhao, Z. Zhou*, G. Dong, W. Su, T. Min, J. Ma, Z. Hu, W. Ren, Z.-G. Ye, C.-W. Nan, M. Liu*,Ionic Modulation of the Interfacial Magnetism in a Bilayer System Comprising a Heavy Metal and a Magnetic Insulator for Voltage‐Tunable Spintronic Devices, Advanced Materials,  DOI: 10.1002/adma.201802902 (2018)</li>
 
-<li>Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials, 29 (17), 1606478, (2018) (inside cover)</li>
 
 <li>Q. Yang, Z. Zhou*, L. Wang, H. Zhang, Y. Cheng, Z. Hu, B. Peng, and M. Liu*, Ionic Gel Modulation of RKKY Interactions in Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices, Advanced Materials, 30, 1800449, (2018) </li>
 

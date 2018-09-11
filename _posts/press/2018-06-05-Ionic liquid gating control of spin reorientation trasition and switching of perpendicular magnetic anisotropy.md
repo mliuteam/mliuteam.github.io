@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  "Advanced Materials"
-title:  "Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy"
+title:  "Low-Voltage Control of (Co/Pt)x Perpendicular Magnetic Anisotropy Heterostructure for Flexible Spintronics"
 teaser: " Author Shishun Zhao"
 categories:
     - press
@@ -14,7 +14,7 @@ show_meta: false
 <!--<div class="row">-->
 <div >
 <p>
-Shishun Zhao, Lei Wang, Ziyao Zhou*, Chunlei Li, Guohua Dong, Le Zhang, Bin Peng, Tai Min, Zhongqiang Hu, Jing Ma, Wei Ren, Zuo-Guang Ye, Wei Chen, Pu Yu, Ce-Wen Nan, Ming Liu*, Ionic-Liquid-Gating Control of Spin Reorientation Transition and Switching of Perpendicular Magnetic Anisotropy, Advanced Materials (2018) </p>
+Shishun Zhao, Ziyao Zhou* , Chunlei Li, Bin Peng, Zhongqiang Hu , and Ming Liu*，Low-Voltage Control of (Co/Pt)x Perpendicular Magnetic Anisotropy Heterostructure for Flexible Spintronics，ACS Nano, 12(7),pp 7167-7173 (2018) </p>
  
  <a href="https://pubs.acs.org/doi/10.1021/acsnano.8b03097">Full text</a>
 </div>
