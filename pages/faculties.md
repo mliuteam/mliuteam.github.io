@@ -16,7 +16,7 @@ permalink: "/faculties/"
             <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
             </p>-->
-            <h2 style="margin:0px;">Professor Ming Liu</a></h2>
+            <h2 style="margin:0px;">Professor Ming Liu</h2>
 	</div>
     </div><!-- /.medium-7.columns -->
 <div class="row">
@@ -25,7 +25,7 @@ permalink: "/faculties/"
             <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
             </p>-->
-            <h2 style="margin:0px;">Professor Ziyao Zhou</a></h2>
+            <h2 style="margin:0px;">Professor Ziyao Zhou</h2>
 	</div>
     </div><!-- /.medium-7.columns -->
 <div class="row">
@@ -34,7 +34,7 @@ permalink: "/faculties/"
             <!--<p class="subheadline">
              <span class="subheader">Bio Sketch</span>
             </p>-->
-            <h2 style="margin:0px;">lecturer Bin Peng</a></h2>
+            <h2 style="margin:0px;">lecturer Bin Peng</h2>
             </div>
 	</div>
     </div><!-- /.medium-7.columns -->
