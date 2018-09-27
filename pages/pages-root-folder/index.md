@@ -12,7 +12,6 @@ widget1:
   url: '/mingliu/'
   image: mliu.jpg
   text: ' <h6>Vice Dean of Graduate School at XJTU</h6>西安交通大学研究生院副院长
-   <h6>Thousand Talent Program </h6> 中组部"青年千人计划"
   <h6>Hundred-Talent Program</h6> 陕西省"百人计划"
   <h6>Member of Xi&apos;an Municipal Committee of CPPCC</h6>西安市政协委员'
 widget3:

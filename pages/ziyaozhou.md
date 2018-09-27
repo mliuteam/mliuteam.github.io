@@ -71,7 +71,7 @@ header: no
 <hr>
 <ol>
 <li>The Youth Talent Program, at Xi’an Jiaotong University  (2016)</li>
-<li>'Thousand Talent’ Program, the Organization Department of the Central Committee of the CPC (2016)</li>
+<!-- <li>'Thousand Talent’ Program, the Organization Department of the Central Committee of the CPC (2016)</li> -->
 <li>Director’s Postdoctoral Fellowship of Argonne National Laboratory （2015）</li>
 <li>Invited Paper, Antiferroelectric Materials and Applications, SPIN, (2015)</li>
 <li>Invited Talk, Crystal growth and its energy and environmental applications, 4th International </li>
