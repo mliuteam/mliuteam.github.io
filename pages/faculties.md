@@ -37,7 +37,6 @@ permalink: "/faculties/"
             <h2 style="margin:0px;">lecturer Bin Peng</h2>
             </div>
 	</div>
-    </div><!-- /.medium-7.columns -->
     <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
@@ -45,7 +44,7 @@ permalink: "/faculties/"
              <span class="subheader">Bio Sketch</span>
             </p>-->
             <h2 style="margin:0px;">lecturer Jingen Wu</h2>
-            </div>
+        </div>
 	</div>
     </div><!-- /.medium-7.columns -->
 </div><!-- /.row -->
