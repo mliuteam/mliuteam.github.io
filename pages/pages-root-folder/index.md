@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: logo2602x742.png
+  image_fullwidth: logo.png
 widget1:
   title: "Prof. Ming Liu"
   url: '/mingliu/'
