@@ -28,6 +28,24 @@ permalink: "/faculties/"
             <h2 style="margin:0px;">Professor Ziyao Zhou</h2>
 	</div>
     </div><!-- /.medium-7.columns -->
+    <div class="row">
+		<!--{% include _pagination.html %}-->
+        <div class="small-12 columes b60">
+            <!--<p class="subheadline">
+             <span class="subheader">Bio Sketch</span>
+            </p>-->
+            <h2 style="margin:0px;">Professor Zhongqiang Hu</h2>
+	</div>
+    </div><!-- /.medium-7.columns -->
+    <div class="row">
+		<!--{% include _pagination.html %}-->
+        <div class="small-12 columes b60">
+            <!--<p class="subheadline">
+             <span class="subheader">Bio Sketch</span>
+            </p>-->
+            <h2 style="margin:0px;">Professor Zhiguang Wang</h2>
+	</div>
+    </div><!-- /.medium-7.columns -->
 <div class="row">
 		<!--{% include _pagination.html %}-->
         <div class="small-12 columes b60">
