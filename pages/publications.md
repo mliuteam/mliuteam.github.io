@@ -35,7 +35,7 @@ permalink: "/publications/"
 
 <li>G. Dong, Z. Zhou*, M. Guan, X. Xue, M. Chen, J. Ma, Z. Hu, W. Ren, Z. Ye, C. Nan, M. Liu*, Thermal Driven Giant Spin Dynamics at Three-Dimensional Heteroepitaxial Interface in Ni0.5Zn0.5Fe2O4/BaTiO3-Pillar Nanocomposites, ACS Nano,12，3751-3758 (2018)
 </li>
-<li>Q. Yang, L. Wang, Z. Zhou*, S. Zhao, G. Dong, Y. Chen, T. Min, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers， Nature Communication, 9, 991 (2018)
+<li>Q. Yang, L. Wang, Z. Zhou*, L. Wang, Y. Zhang, S. Zhao, G. Dong, Y. Chen, T. Min, Z. Hu, W. Chen, K. Xia, M. Liu*, Ionic liquid gating control of RKKY interaction in FeCoB/Ru/FeCoB and (Pt/Co)2/Ru/(Co/Pt)2 multilayers, Nature Communications, 9, 991 (2018)
 </li>
 <li>M. Zhu, Z. Hu, C. Li, X. Xue, G. Yang, W. Ren, Z.-G. Ye, Z. Zhou, M. Liu*, “Voltage-Tuned
 Transport Properties and Ferromagnetic Resonance in Lanthanum Strontium
