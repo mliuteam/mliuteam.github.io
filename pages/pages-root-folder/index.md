@@ -60,7 +60,7 @@ mediaplayer: true
 <a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
 <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
 
-
+<!--yang qu youtube video internet slow shut down>
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/aZHABDXSsWc" frameborder="0" allowfullscreen></iframe>
