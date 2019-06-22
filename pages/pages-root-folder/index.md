@@ -54,21 +54,24 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 
-homepage: true
-mediaplayer: true
+#homepage: true
+#mediaplayer: true
 ---
+<!--yang qu youtube video internet slow shut down
 <a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
 <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
 
-<!--yang qu youtube video internet slow shut down>
+-->
+<!--yang qu youtube video internet slow shut down
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/aZHABDXSsWc" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div> 
+-->
 <!-- <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}chatu.png" width="" height="182" alt=""></a>
-
+-->
 <!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
@@ -76,7 +79,7 @@ mediaplayer: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-
+-->
 <!--<div class="row t30 b20 homepage">
 <div class="small-12 columns">
 <img src="{{ site.urlimg }}chatu.png"">
