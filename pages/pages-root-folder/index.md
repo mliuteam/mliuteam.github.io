@@ -12,7 +12,7 @@ widget1:
   url: '/mingliu/'
   image: mliu.jpg
   text: ' 
-  <h6>Professor of Graduate School at XJTU</h6>西安交通大学研究生院教授'
+  <h6>Professor of Electronics and Information Science Department at XJTU</h6>西安交通大学电子与信息学部教授'
   #<h6>Vice Dean of Graduate School at XJTU</h6>西安交通大学研究生院副院长
   #<h6>"Tengfei" professor</h6> 腾飞特聘教授
   #<h6>Hundred-Talent Program</h6> 陕西省"百人计划"
