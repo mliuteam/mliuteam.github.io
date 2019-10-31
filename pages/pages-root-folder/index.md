@@ -11,10 +11,11 @@ widget1:
   title: "Prof. Ming Liu"
   url: '/mingliu/'
   image: mliu.jpg
-  text: ' <h6>Vice Dean of Graduate School at XJTU</h6>西安交通大学研究生院副院长
-  <h6>"Tengfei" professor</h6> 腾飞特聘教授
-  <h6>Hundred-Talent Program</h6> 陕西省"百人计划"
-  <h6>Member of Xi&apos;an Municipal Committee of CPPCC</h6>西安市政协委员'
+  text: ' <h6>电子科技与工程学院教授</h6>'
+  #<h6>Vice Dean of Graduate School at XJTU</h6>西安交通大学研究生院副院长
+  #<h6>"Tengfei" professor</h6> 腾飞特聘教授
+  #<h6>Hundred-Talent Program</h6> 陕西省"百人计划"
+  #<h6>Member of Xi&apos;an Municipal Committee of CPPCC</h6>西安市政协委员
 widget3:
   title: "Research Articles"
   url: '/publications/'
@@ -56,7 +57,7 @@ permalink: /index.html
 
 #homepage: true
 #mediaplayer: true
----
+bb---
 <!--yang qu youtube video internet slow shut down
 <a href="#" data-reveal-id="videoModal">Vedio Abstract: Synthetic Anti-Ferromagnetic Nanostructures for Low Power Wearable Spintronic Devices</a>
 <a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}qyang-am.png" width="" height="" alt=""></a>
