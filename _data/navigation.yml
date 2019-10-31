@@ -17,8 +17,8 @@
   url: "/people/"
   side: left
   dropdown:
-  - title: "Faculties"
-    url: "/faculties/"
+  #- title: "Faculties"
+   # url: "/faculties/"
   - title: "Students"
     url: "/students/"
 
