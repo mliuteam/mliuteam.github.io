@@ -18,7 +18,6 @@ permalink: "/publications/"
 </div>-->
 <!--</div>  /.medium-4.columns -->
 <!--</div>-->
-<h3>2019</h3>
 <hr>
 <ol reversed style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;font-size: 14px;">
 
